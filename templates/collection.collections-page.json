@@ -1,0 +1,286 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "heading_style": "h1",
+        "show_collection_description": true,
+        "description_max_lines": 2,
+        "show_subheading": true,
+        "color_scheme": "background-2"
+      }
+    },
+    "img_banner_aqUxL6": {
+      "type": "img-banner",
+      "settings": {
+        "img": "shopify:\/\/shop_images\/Ash_and_Ember_Onyx_Collection_Main_Desktop.webp",
+        "img_mobile": "shopify:\/\/shop_images\/Ash_and_Ember_Onyx_Collection_Main_Mobile.webp",
+        "img_width": "large",
+        "img_position": "left",
+        "image_overlay_opacity": 30,
+        "color_scheme": "",
+        "subheading": "Our Newest Collection",
+        "heading": "The Onyx Collection",
+        "heading_tag": "h2",
+        "description": "Our Onyx Collection is handcrafted from the highest level of Grade A Teak. With rich texture and contrasting tones, this collection is perfect for those wanting to create a space of modern luxury.",
+        "allignment_desktop": "u-middleRightDesktop",
+        "allignment_mobile": "u-middleCenter",
+        "text_color": "#ffffff",
+        "cta_label": "Shop Now",
+        "cta_link": "shopify:\/\/collections\/onyx-furniture",
+        "button_color_scheme": "c-btnSecondary"
+      }
+    },
+    "collections_carousel_in4mww": {
+      "type": "collections-carousel",
+      "blocks": {
+        "featured_collection_wjE89j": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "acadia-furniture",
+            "collection_img": "shopify:\/\/shop_images\/Ash_and_Ember_Acadia_Collection.webp",
+            "collection_heading": "Acadia",
+            "heading_tag": "h3",
+            "heading_style": "h2",
+            "collection_cta": "Shop Now"
+          }
+        },
+        "featured_collection_XyMeF7": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "everwood-furniture",
+            "collection_img": "shopify:\/\/shop_images\/Ash_and_Ember_Everwood_Collection.webp",
+            "collection_heading": "Everwood",
+            "heading_tag": "h3",
+            "heading_style": "h2",
+            "collection_cta": "Shop Now"
+          }
+        },
+        "featured_collection_qJnWRe": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "cascade-furniture",
+            "collection_img": "shopify:\/\/shop_images\/Ash_and_Ember_Cascade_Collection.webp",
+            "collection_heading": "Cascade",
+            "heading_tag": "h3",
+            "heading_style": "h2",
+            "collection_cta": "Shop Now"
+          }
+        },
+        "featured_collection_frrzbd": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "caspian-furniture",
+            "collection_img": "shopify:\/\/shop_images\/Ash_and_Ember_Caspian_Collection.webp",
+            "collection_heading": "Caspian",
+            "heading_tag": "h3",
+            "heading_style": "h2",
+            "collection_cta": "Shop Now"
+          }
+        },
+        "featured_collection_LtDNTq": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "hawthorne-furniture",
+            "collection_img": "shopify:\/\/shop_images\/Ash_and_Ember_Hawthorne_Collection.webp",
+            "collection_heading": "Hawthorne",
+            "heading_tag": "h3",
+            "heading_style": "h2",
+            "collection_cta": "Shop Now"
+          }
+        },
+        "featured_collection_QnCMfV": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "luna-furniture",
+            "collection_img": "shopify:\/\/shop_images\/Ash_and_Ember_Luna_Collection.webp",
+            "collection_heading": "Luna",
+            "heading_tag": "h3",
+            "heading_style": "h2",
+            "collection_cta": "Shop Now"
+          }
+        },
+        "featured_collection_UBwBqL": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "onyx-furniture",
+            "collection_img": "shopify:\/\/shop_images\/Ash_and_Ember_Onyx_Collection_Tile.webp",
+            "collection_heading": "Onyx",
+            "heading_tag": "h3",
+            "heading_style": "h2",
+            "collection_cta": "Shop Now"
+          }
+        },
+        "featured_collection_9rTBxR": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sage-furniture",
+            "collection_img": "shopify:\/\/shop_images\/Ash_and_Ember_Sage_Collection.webp",
+            "collection_heading": "Sage",
+            "heading_tag": "h3",
+            "heading_style": "h2",
+            "collection_cta": "Shop Now"
+          }
+        },
+        "featured_collection_Uzn4Xt": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sandhill-furniture",
+            "collection_img": "shopify:\/\/shop_images\/Ash_and_Ember_Sandhill_Collection.webp",
+            "collection_heading": "Sandhill",
+            "heading_tag": "h3",
+            "heading_style": "h2",
+            "collection_cta": "Shop Now"
+          }
+        },
+        "featured_collection_mz83gM": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "savannah-furniture",
+            "collection_img": "shopify:\/\/shop_images\/Ash_and_Ember_Savannah_Collection.webp",
+            "collection_heading": "Savannah",
+            "heading_tag": "h3",
+            "heading_style": "h2",
+            "collection_cta": "Shop Now"
+          }
+        },
+        "featured_collection_fhrjbF": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sierra-furniture",
+            "collection_img": "shopify:\/\/shop_images\/Ash_and_Ember_Sierra_Collection.webp",
+            "collection_heading": "Sierra",
+            "heading_tag": "h3",
+            "heading_style": "h2",
+            "collection_cta": "Shop Now"
+          }
+        },
+        "featured_collection_cUDhHf": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "solstice-furniture",
+            "collection_img": "shopify:\/\/shop_images\/Ash_and_Ember_Solstice_Collection.webp",
+            "collection_heading": "Solstice",
+            "heading_tag": "h3",
+            "heading_style": "h2",
+            "collection_cta": "Shop Now"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_wjE89j",
+        "featured_collection_XyMeF7",
+        "featured_collection_qJnWRe",
+        "featured_collection_frrzbd",
+        "featured_collection_LtDNTq",
+        "featured_collection_QnCMfV",
+        "featured_collection_UBwBqL",
+        "featured_collection_9rTBxR",
+        "featured_collection_Uzn4Xt",
+        "featured_collection_mz83gM",
+        "featured_collection_fhrjbF",
+        "featured_collection_cUDhHf"
+      ],
+      "settings": {
+        "heading": "Shop All Collections",
+        "heading_tag": "h2",
+        "color_scheme": "",
+        "padding_top": 48,
+        "padding_bottom": 48,
+        "padding_top_mobile": 40,
+        "padding_bottom_mobile": 40
+      }
+    },
+    "img_banner_6NWrcC": {
+      "type": "img-banner",
+      "settings": {
+        "img": "shopify:\/\/shop_images\/Ash_and_Ember_Caspian_Collection_Main.webp",
+        "img_mobile": "shopify:\/\/shop_images\/Ash_and_Ember_Caspian_Collection_Main_Mobile.webp",
+        "img_width": "large",
+        "img_position": "right",
+        "image_overlay_opacity": 30,
+        "color_scheme": "background-2",
+        "subheading": "",
+        "heading": "Caspian Collection",
+        "heading_tag": "h2",
+        "description": "Made from high-quality aluminum alloy, this collection is weather resistant and durable. The adjustable table, modular sofas, hanging chair, and matching planters allow you to configure your space exactly how you need it, making this one of our most versatile collections.",
+        "allignment_desktop": "u-middleLeftDesktop",
+        "allignment_mobile": "u-middleLeft",
+        "text_color": "#ffffff",
+        "cta_label": "Shop Now",
+        "cta_link": "shopify:\/\/collections\/caspian-furniture",
+        "button_color_scheme": "c-btnSecondary"
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 24,
+        "columns_desktop": 4,
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "enable_quick_add": false,
+        "enable_filtering": true,
+        "filter_type": "drawer",
+        "enable_sorting": true,
+        "columns_mobile": "1",
+        "free_shipping": true,
+        "buy_now_pay_later": true,
+        "save": true,
+        "padding_top": 0,
+        "padding_bottom": 48,
+        "padding_top_mobile": 0,
+        "padding_bottom_mobile": 16,
+        "color_scheme": "background-2"
+      }
+    },
+    "97107932-c762-4a8d-8ee9-440fe513aa5b": {
+      "type": "collections-faqs",
+      "settings": {
+        "heading": "",
+        "heading_tag": "h2",
+        "heading_style": "h2",
+        "description": "",
+        "color_scheme": "background-2",
+        "padding_top": 48,
+        "padding_bottom": 48,
+        "padding_top_mobile": 40,
+        "padding_bottom_mobile": 40
+      }
+    },
+    "2958768d-5901-4ed5-886a-9851c8412ff2": {
+      "type": "collections-testimonials",
+      "settings": {
+        "heading": "",
+        "heading_tag": "h2",
+        "heading_style": "h3",
+        "color_scheme": "background-1",
+        "padding_top": 48,
+        "padding_bottom": 48,
+        "padding_top_mobile": 40,
+        "padding_bottom_mobile": 40
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "img_banner_aqUxL6",
+    "collections_carousel_in4mww",
+    "img_banner_6NWrcC",
+    "product-grid",
+    "97107932-c762-4a8d-8ee9-440fe513aa5b",
+    "2958768d-5901-4ed5-886a-9851c8412ff2"
+  ]
+}

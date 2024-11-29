@@ -1,0 +1,138 @@
+@import url("https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400..900;1,400..900&family=Maven+Pro:wght@400..900&display=swap");
+
+@import url("https://use.typekit.net/kug1ujs.css");
+
+
+.klaviyo-bis-close {
+  #klaviyo-bis-modal {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate3d(-50%, -50%, 0);
+  
+    @media only screen and (min-width: 1024px) {
+      position: relative;
+      top: initial;
+      left: initial;
+      transform: none;
+    }
+  
+    .btn {
+      font-size: 14px;
+      font-weight: 700;
+      border-radius: 2px;
+      font-family: "urw-din", sans-serif!important;
+      background-color: #fff;
+      color: #232323!important;
+      border: 2px solid #232323;
+      text-transform: uppercase;
+
+      &:hover,
+      &:focus {
+        background-color: #232323;
+        color: #fff!important;
+        border: 2px solid #fff;
+        outline: 1px solid #232323;  
+      }  
+    }
+    .modal-title {
+      font-family: "erbaum", sans-serif!important;
+      line-height: normal;
+      font-weight: 600;
+      padding-top: 30px;
+      text-transform: uppercase;
+  
+      @media only screen and (min-width: 1024px) {
+        padding-top: 0;
+      }
+    }
+  
+    p {
+      font-family: "urw-din", sans-serif!important;
+      font-size: 16px;
+      font-weight: 400;
+      line-height: 137%;
+    }
+  
+    #container {
+      border-radius: 2px;
+    }
+  
+    .form-control.input-lg {
+      border-radius: 2px;
+    }
+  
+    input#email {
+      background: #f2f2f2;
+      border: unset !important;
+      font-family: "urw-din", sans-serif!important;
+      font-size: 16px;
+      font-weight: 400 !important;
+    }
+  
+    .form-control {
+      box-shadow: none;
+      border: 1px solid #cacaca;
+      font-weight: 500;
+    }
+  
+    ::-webkit-input-placeholder {
+      color: #000;
+      font-weight: 500;
+    }
+    ::-moz-placeholder {
+      color: #000;
+      font-weight: 500;
+    }
+    :-ms-input-placeholder {
+      color: #000;
+      font-weight: 500;
+    }
+    :-moz-placeholder {
+      color: #000;
+      font-weight: 500;
+    }
+    ::placeholder {
+      color: #000;
+      font-weight: 500;
+    }
+  
+    .btn {
+      display: inline-flex;
+      padding: 12px 28px;
+      justify-content: center;
+      align-items: center;
+      border-radius: 2px;
+      font-family: "urw-din", sans-serif!important;
+      font-size: 13px;
+      line-height: 185%;
+      letter-spacing: 0.26px;
+      font-weight: 700;
+      gap: 5px;
+      transition: all 0.3s ease-in-out;
+      min-width: 154px;  
+    }
+  
+    .btn:hover {
+      border-radius: 2px;
+    }
+    .btn:hover::after,
+    .btn:hover::before {
+      box-shadow: none !important;
+    }
+  
+    .btn:active {
+      background-color: #232323;
+      border: 2px solid #232323;
+    }
+    .btn:focus {
+      border: 3px solid #232323;
+    }
+  
+    .close {
+      color: #000;
+      font-weight: 400;
+      font-size: 35px;
+    }
+  }
+}

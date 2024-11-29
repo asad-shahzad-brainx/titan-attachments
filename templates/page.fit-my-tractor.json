@@ -1,0 +1,275 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multi_column_text_tycJix": {
+      "type": "multi-column-text",
+      "blocks": {
+        "content_r4YXbc": {
+          "type": "content",
+          "settings": {
+            "heading": "FAST & EASY SHIPPING",
+            "heading_tag": "h3",
+            "description": "<p><a href=\"\/pages\/strategic-accounts\" title=\"\/pages\/strategic-accounts\">Call us for dealer pricing<\/a><\/p>"
+          }
+        },
+        "content_hjwjAF": {
+          "type": "content",
+          "settings": {
+            "heading": "SATISFACTION GUARANTEE",
+            "heading_tag": "h4",
+            "description": "<p>100% satisfaction guarantee.<\/p>"
+          }
+        },
+        "content_bQ3AjY": {
+          "type": "content",
+          "settings": {
+            "heading": "1 YEAR LIMITED WARRANTY",
+            "heading_tag": "h4",
+            "description": "<p>Repair, Replace or Refund<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "content_r4YXbc",
+        "content_hjwjAF",
+        "content_bQ3AjY"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "color_scheme": "inverse"
+      }
+    },
+    "rich_text_bNBYzB": {
+      "type": "rich-text",
+      "blocks": {
+        "text_hRMQbD": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Not sure what type of connection you have on your loader? Below you will find the most common connections and a link to view only the attachments that work for you.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_hRMQbD"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_QJFyzE": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_87Yxq9": {
+          "type": "heading",
+          "settings": {
+            "heading": "SSQA, QA, and Quick Tach",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_87Yxq9"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "img_banner_V7CQzL": {
+      "type": "img-banner",
+      "settings": {
+        "img": "shopify:\/\/shop_images\/SSQA.webp",
+        "img_mobile": "shopify:\/\/shop_images\/SSQA_Mobile.webp",
+        "img_width": "medium",
+        "img_position": "right",
+        "image_overlay_opacity": 30,
+        "color_scheme": "background-1",
+        "subheading": "",
+        "heading": "",
+        "heading_tag": "h2",
+        "description": "On your arms, you will have two spring loaded levers at the top. When activated, each lever will engage a pin at the bottom. These pins should be approximately 32\"-35\" apart, center to center. This type of connection is commonly known as the SSQA, QA, and Quick Tach. The SSQA was originally found on skid steers. Due to the ease and speed at which you can change between implements, this connection is very popular and can be found on newer front end loaders.",
+        "allignment_desktop": "u-middleLeftDesktop",
+        "allignment_mobile": "u-middleCenter",
+        "text_color": "#f2f2f2",
+        "cta_label": "Shop Available Attachments",
+        "cta_link": "shopify:\/\/collections\/tractors-quick-tach",
+        "button_color_scheme": "c-btnPrimary"
+      }
+    },
+    "rich_text_Hqytn7": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_GjTRtJ": {
+          "type": "heading",
+          "settings": {
+            "heading": "John Deere Hook and Pin",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_GjTRtJ"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "img_banner_akLYwb": {
+      "type": "img-banner",
+      "settings": {
+        "img": "shopify:\/\/shop_images\/JD_Hook_pin.webp",
+        "img_mobile": "shopify:\/\/shop_images\/JD_Hook_pin_Mobile.webp",
+        "img_width": "medium",
+        "img_position": "left",
+        "image_overlay_opacity": 30,
+        "color_scheme": "",
+        "subheading": "",
+        "heading": "",
+        "heading_tag": "h3",
+        "description": "To connect to an attachment, your loader arms will slide under the top hooks. The bottom pins on your attachment will slide into the bottom of the loader arm and will be secured using a cotter pin. This connection is found on most 200, 300, 400, and 500 series John Deere loaders.\n\nThe following John Deere Loader Numbers are compatible: D120, D160, D170, H120, H130, H140, 120R, 200X, 200CX, 220R, 300X, 300CX, 300E, 300R, 305, 320R, 400X, 400CX, 410, 419, 420, 440, 440R, 460, 500, 510, 512, 520, 521, 540, 541, 542, 553",
+        "allignment_desktop": "u-middleLeftDesktop",
+        "allignment_mobile": "u-middleCenter",
+        "text_color": "#f2f2f2",
+        "cta_label": "Shop Available Attachments",
+        "cta_link": "shopify:\/\/collections\/jd-tractor-buckets",
+        "button_color_scheme": "c-btnPrimary"
+      }
+    },
+    "rich_text_bgqb4D": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_QgeBP4": {
+          "type": "heading",
+          "settings": {
+            "heading": "Global\/Euro",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_QgeBP4"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "img_banner_mptwe6": {
+      "type": "img-banner",
+      "settings": {
+        "img": "shopify:\/\/shop_images\/Global.webp",
+        "img_mobile": "shopify:\/\/shop_images\/Global_Mobile.webp",
+        "img_width": "medium",
+        "img_position": "right",
+        "image_overlay_opacity": 30,
+        "color_scheme": "",
+        "subheading": "",
+        "heading": "",
+        "heading_tag": "h2",
+        "description": "This connection is found on larger sub compact and utility tractors and can be easily distinguished by the spring loaded handle on one side of the loader arms. You will connect to an attachment by tilting your arms forward and sliding the top bar under the brackets of your implement. You will then tilt the arms back allowing the bottom pin slots to align. Lastly, you will pull the spring handle out and turn to engage the pins that run horizontally from side to side.",
+        "allignment_desktop": "u-middleLeftDesktop",
+        "allignment_mobile": "u-middleCenter",
+        "text_color": "#f2f2f2",
+        "cta_label": "Shop Available Attachments",
+        "cta_link": "shopify:\/\/collections\/tractors-global-euro",
+        "button_color_scheme": "c-btnPrimary"
+      }
+    },
+    "rich_text_LLAq4D": {
+      "type": "rich-text",
+      "blocks": {
+        "text_it4rqW": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If you are still not sure or would like further help, feel free to contact us by filling out our contact form.<\/p>"
+          }
+        },
+        "button_zmgfRM": {
+          "type": "button",
+          "settings": {
+            "button_label": "Contact us",
+            "button_link": "https:\/\/support.palletforks.com\/hc\/en-us\/requests\/new?ticket_form_id=151263",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "text_it4rqW",
+        "button_zmgfRM"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "about_main_xXYndD": {
+      "type": "about-main",
+      "settings": {
+        "title": "",
+        "title_tag": "h1",
+        "heading": "",
+        "heading_tag": "h2",
+        "description": "<p>You have a list of chores to do, and you have the equipment to help you do it. You just need the right attachments for the job, and you need them to fit your tractor or skid steer. What will fit your machine? How do you choose the right attachments? What are some common attachments that help save time and money? We can help.<\/p><h2>HOW TO CHOOSE IMPLEMENTS FOR YOUR MACHINE<\/h2><p>You likely wonder how to choose implements for your machine. The first step when choosing implements is to consider the type of machine you have. Each of these will have different attachments available, so let's start there.<\/p><ul><li><strong>Tractors<\/strong> - When it comes to tractors, you typically have more horsepower than with a skid steer but also fewer options when it comes to attachments. Still, many of the most useful tools are available and with the additional strength, they may also be more effective depending on the chore.<\/li><li><strong>Skid steers<\/strong> - From augers and backhoe attachments to snow pushers and tree pullers, you will find a wide selection of attachments for your skid steer. The overall size and weight of this type of machine allow it to be used in more situations than you can usually find a tractor.<\/li><li><strong>Mini skid steers<\/strong> - Several of the same attachments for full-sized skid steers are available for the mini skid steer machines. This can make them just as helpful, especially considering the chore.<\/li><\/ul><h2>ARE ATTACHMENTS INTERCHANGEABLE?<\/h2><p>So, are attachments interchangeable? Yes! Interchangeable attachments are one of the features that make tractors and skid steers such great investments. With just one machine, you can do the job of four or more separate ones. This cuts cost investment but also time. It's possible to fit a skid steer, Quick Tach, or United Attachments to most other machines with mount plates, three-point quick hitches, and conversion adapters.<\/p><h2>WHY SIZE MATTERS WHEN CHOOSING ATTACHMENTS FOR YOUR MACHINE<\/h2><p>After first considering the type of machine you have, it's time to think about why size matters when choosing attachments for your machine. There are two size factors to look at for every attachment.<\/p><p>The size dimensions of the attachment are important for several reasons. Depending on the job you're doing, the implement could be too small. It may not fit the items you are moving. If the implement is too large, it may not fit where you need it to go.<\/p><p>The second size consideration is weight. The weight of the attachment will reduce the weight capacity available to you while working. If your machine is smaller with a lower weight capacity to start with, the weight of the attachment will be much more important. You can also go with a lighter-duty implement, if appropriate, to free up weight capacity.<\/p><h2>COMMON ATTACHMENTS THAT HELP SAVE TIME & MONEY<\/h2><p>Based on the type of machine you have, you'll find several common attachments that help save time & money as you get those jobs done more efficiently. Let’s look at some of the tractor attachments you might need:<\/p><ul><li>Pallet fork attachments - With several sizes of these available, you can get your barn organized in no time at all and haul materials and equipment right to the job site.<\/li><li>Grapple bucket - Clear and haul away brush or scrap material without the need for tie-downs and other extra labor.<\/li><\/ul><p>Here are some essential skid steer attachments to have:<\/p><ul><li>Hay\/bale spear attachments - Transporting round or square hay bales is faster and easier with spear attachments, and there are many setups to choose from.<\/li><li>Tree pullers and stump buckets - Skip the backbreaking work of removing a tree or stump and let your skid steer do the work.<\/li><\/ul><p>Let’s consider a few important mini skid steer attachments:<\/p><ul><li>Grapple rake - This is perfect for moving, lifting, and getting rid of rocks, brush, and other debris on your property.<\/li><li>Combo buckets - Tackle any job with one universal attachment that allows you to backfill, bulldoze, spread, fill, and more.<\/li><\/ul><p>Whatever attachments you need for your tractor or skid steer, Titan Attachments is here to help. We offer fast & easy shipping on your order as well as an industry-leading one-year warranty on all products. With our high-quality equipment engineered right here in the U.S., we're dedicated to helping you get the job done.<\/p>",
+        "padding_top": 12,
+        "padding_bottom": 12,
+        "color_scheme": "background-1"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "multi_column_text_tycJix",
+    "rich_text_bNBYzB",
+    "rich_text_QJFyzE",
+    "img_banner_V7CQzL",
+    "rich_text_Hqytn7",
+    "img_banner_akLYwb",
+    "rich_text_bgqb4D",
+    "img_banner_mptwe6",
+    "rich_text_LLAq4D",
+    "about_main_xXYndD"
+  ]
+}

@@ -1,0 +1,158 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "main": {
+      "type": "main-404",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "img_banner_7QBgUX": {
+      "type": "img-banner",
+      "settings": {
+        "img": "shopify:\/\/shop_images\/tractor-dragging-log-404-page.jpg",
+        "img_mobile": "shopify:\/\/shop_images\/tractor-overhead-logs.webp",
+        "img_width": "medium",
+        "img_position": "right",
+        "image_overlay_opacity": 30,
+        "color_scheme": "background-2",
+        "subheading": "",
+        "heading": "Oops! There's no work to be done here.",
+        "heading_tag": "h2",
+        "description": "The page you're trying to reach does not exist. Use the search bar at the top of the page our check out our best selling products and categories below.",
+        "allignment_desktop": "u-middleLeftDesktop",
+        "allignment_mobile": "u-middleCenter",
+        "text_color": "#ffffff",
+        "cta_label": "Back to Homepage",
+        "cta_link": "https:\/\/palletforks.com",
+        "button_color_scheme": "c-btnTertiaryEmphasis"
+      }
+    },
+    "ss_recommendation_qb9mnL": {
+      "type": "ss-recommendation",
+      "settings": {
+        "ss_profile_id": "404",
+        "ss_wrapper_class": "o-pageWidth",
+        "ss_collection_list": [
+
+        ],
+        "ss_import_card_styles": true,
+        "ss_batched": true
+      }
+    },
+    "collections_carousel_dz6pGN": {
+      "type": "collections-carousel",
+      "blocks": {
+        "featured_collection_XTgU9P": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "skid-steer-grapples",
+            "collection_img": "shopify:\/\/shop_images\/Grapples_Collection.webp",
+            "collection_heading": "Skid Steer Grapples",
+            "heading_tag": "h2",
+            "heading_style": "h2",
+            "collection_cta": "Shop Now"
+          }
+        },
+        "featured_collection_DY4wyr": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "skid-steer-buckets",
+            "collection_img": "shopify:\/\/shop_images\/Skid_Steer_Buckets_Cat.webp",
+            "collection_heading": "Skid Steer Buckets",
+            "heading_tag": "h2",
+            "heading_style": "h2",
+            "collection_cta": "Shop Now"
+          }
+        },
+        "featured_collection_G36EtT": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "3-point-hitch-attachments",
+            "collection_img": "shopify:\/\/shop_images\/3-point-tractor-attachments.webp",
+            "collection_heading": "3-Point Tractor Attachments",
+            "heading_tag": "h2",
+            "heading_style": "h2",
+            "collection_cta": "Shop Now"
+          }
+        },
+        "featured_collection_7YFQWV": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "workshop-forestry-equipment",
+            "collection_img": "shopify:\/\/shop_images\/Forestry_Collection.webp",
+            "collection_heading": "",
+            "heading_tag": "h2",
+            "heading_style": "h2",
+            "collection_cta": "Shop Now"
+          }
+        },
+        "featured_collection_aCBTdP": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "jd-hook-pin-attachments",
+            "collection_img": "shopify:\/\/shop_images\/JD_Hook_Pin_Collection.webp",
+            "collection_heading": "JD Hook & Pin",
+            "heading_tag": "h2",
+            "heading_style": "h2",
+            "collection_cta": "Shop Now"
+          }
+        },
+        "featured_collection_dzCCeb": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "skid-steers-pallet-frame-forks",
+            "collection_img": "shopify:\/\/shop_images\/Skid_Steer_Pallet_Forks_Cat.webp",
+            "collection_heading": "Skid Steer Pallet Forks",
+            "heading_tag": "h2",
+            "heading_style": "h2",
+            "collection_cta": "Shop Now"
+          }
+        },
+        "featured_collection_CJpBVB": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "forklift-attachments",
+            "collection_img": "shopify:\/\/shop_images\/Fork_Mounted_Collection.webp",
+            "collection_heading": "Fork Mounted",
+            "heading_tag": "h2",
+            "heading_style": "h2",
+            "collection_cta": "Shop Now"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_XTgU9P",
+        "featured_collection_DY4wyr",
+        "featured_collection_G36EtT",
+        "featured_collection_7YFQWV",
+        "featured_collection_aCBTdP",
+        "featured_collection_dzCCeb",
+        "featured_collection_CJpBVB"
+      ],
+      "settings": {
+        "heading": "Shop Top Categories",
+        "heading_tag": "h2",
+        "color_scheme": "",
+        "padding_top": 48,
+        "padding_bottom": 48,
+        "padding_top_mobile": 40,
+        "padding_bottom_mobile": 40
+      }
+    }
+  },
+  "order": [
+    "main",
+    "img_banner_7QBgUX",
+    "collections_carousel_dz6pGN",
+    "ss_recommendation_qb9mnL"
+  ]
+}

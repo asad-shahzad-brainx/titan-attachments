@@ -1,0 +1,52 @@
+{% assign collectionCW = collection.metafields.seo.related_articles.value %}
+
+{% if collectionCW != blank %}
+    {% for data in collectionCW %}
+        {% for content_wheel in data.seo_cw %}
+            <div class="obx-bottom-template">
+                <div class="o-pageWidth">
+                    <section class="content-wheel">
+                        <div class="content-wheel-header">
+                            <h2>{{ content_wheel.title }}</h2>
+                            <div class="view-link desktop"><a href="{{ content_wheel.all_blog_url }}">See All Articles</a></div>
+                        </div>
+                        <div class="related-articles flex-row">
+                            {% for seo_article in content_wheel.articles %}
+                                <div class="article">
+                                    <a href="{{ seo_article.post_url }}">
+                                        <span class="img-container">
+                                            <img height="" width="" src="{{ seo_article.post_img }}" alt="{{ seo_article.post_img_alt }}" loading="lazy">
+                                        </span> 
+                                        <span class="article-inner">
+                                            <span class="article-title">{{ seo_article.post_title }}</span>
+                                            <span class="article-meta">{{ seo_article.post_meta }}</span>
+                                        </span>
+                                    </a>
+                                </div>
+                            {% endfor %}
+                        </div>
+                        <div class="view-link mobile"><a href="{{ content_wheel.all_blog_url }}">See All Articles</a></div>
+                    </section>
+                </div>
+            </div>
+        {% endfor %}
+    {% endfor %}
+{% endif %}
+
+{% schema %}
+{
+  "name": "SEO: Content Wheel",
+  "class": "seo-cta-content",
+  "settings": [
+    {
+        "type": "paragraph",
+        "content": "Outputs Collection Metafield: 'SEO: Related Articles'"
+    }
+  ],
+  "presets": [
+    {
+      "name": "SEO: Content Wheel"
+    }
+  ]
+}
+{% endschema %}

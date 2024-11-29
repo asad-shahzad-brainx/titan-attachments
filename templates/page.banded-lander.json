@@ -1,0 +1,116 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "hero_banner_WEN7HN": {
+      "type": "hero-banner",
+      "settings": {
+        "img": "shopify:\/\/shop_images\/Titan_Attachments_Banded_Giveaway_Sample_Banner.jpg",
+        "img_mobile": "shopify:\/\/shop_images\/24-TA-0074-Lawn-Equipment-Mobile.webp",
+        "image_overlay_opacity": 40,
+        "color_scheme": "",
+        "subheading": "ENTER TO WIN",
+        "heading": "THE ULTIMATE DUCK HUNTING STARTER PACK",
+        "heading_tag": "2",
+        "use_aria_headings": true,
+        "desc": "Titan Attachments is excited to partner with Banded and Rusty Creasey to bring you the ultimate duck hunting giveaway. One lucky waterfowler will win a full duck hunting starter pack with a combined value of over $2,000. Sign up now for your chance to win! Hurry, giveaway ends September 6th.",
+        "allignment_desktop": "u-middleCenterDesktop",
+        "allignment_mobile": "u-middleCenter",
+        "text_color": "#ffffff",
+        "btn_label": "",
+        "btn_link": "",
+        "button_color_scheme": "c-btnPrimary"
+      }
+    },
+    "rich_text_cQLEX4": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_hMFmMB": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>ENTER FOR THE CHANCE TO WIN<\/strong>",
+            "heading_size": "h0"
+          }
+        },
+        "text_PkJ38H": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Over $2,000 in prizes, including ...<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_hMFmMB",
+        "text_PkJ38H"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "custom_liquid_N66PEX": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<style>\n.custom-image-grid {\n  display: flex;\n  flex-wrap: wrap;\n  justify-content: space-between;\n  gap: 5px; \/* Reduced gap for desktop *\/\n  margin: 50px;\n}\n\n.custom-image-grid__item {\n  flex: 1 1 calc(20% - 10px); \/* Adjusted to match the smaller gap *\/\n  text-align: center;\n}\n\n.custom-image-grid__img {\n  max-width: 100%;\n  height: auto;\n  border-radius: 0px;\n}\n\n.custom-image-grid__text {\n  font-weight: 700;\n  font-family: urw-din;\n  font-size: 16px;\n  letter-spacing: -.16px;\n  margin-top: 10px;\n}\n\n.custom-image-grid__text_reg {\n  font-weight: 400;\n  font-family: urw-din;\n  font-size: 14px;\n  margin-top: 10px;\n}\n\n@media only screen and (max-width: 767px) {\n  .custom-image-grid {\n    flex-wrap: nowrap;\n    overflow-x: auto;\n    -webkit-overflow-scrolling: touch;\n    gap: 10px;\n  }\n\n  .custom-image-grid__item {\n    flex: 0 0 calc(70% - 10px); \/* 70% width on smaller screens *\/\n  }\n}\n\n@media only screen and (max-width: 479px) {\n  .custom-image-grid {\n    flex-wrap: nowrap;\n    overflow-x: auto;\n    -webkit-overflow-scrolling: touch;\n    gap: 10px;\n  }\n\n  .custom-image-grid__item {\n    flex: 0 0 calc(80% - 10px); \/* 80% width on extra small screens *\/\n  }\n}\n\n<\/style>\n\n<div class=\"custom-image-grid\">\n  <div class=\"custom-image-grid__item\">\n    <a href=\"https:\/\/palletforks.com\/products\/4-ft-atv-notched-disc-harrow\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0805\/4738\/1552\/files\/4_FT_ATV_Notched_Disc_Harrow.jpg?v=1724089795?v=1724082661\" alt=\"Image 1\" class=\"custom-image-grid__img\"><\/a>\n    <a href=\"https:\/\/palletforks.com\/products\/4-ft-atv-notched-disc-harrow\"><p class=\"custom-image-grid__text\">4 FT ATV Notched Disc Harrow<\/p><\/a>\n    <p class=\"custom-image-grid__text_reg\">Retail Value: $694.99<\/p>\n  <\/div>\n  <div class=\"custom-image-grid__item\">\n    <a href=\"https:\/\/palletforks.com\/products\/80-lb-atv-utv-broadcast-spreader-lawn-garden-fertilizer-seed-spreaders\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0805\/4738\/1552\/files\/80_LB_ATV_Broadcast_Spreader.jpg?v=1724089795\" alt=\"Image 2\" class=\"custom-image-grid__img\"><\/a>\n    <a href=\"https:\/\/palletforks.com\/products\/80-lb-atv-utv-broadcast-spreader-lawn-garden-fertilizer-seed-spreaders\"><p class=\"custom-image-grid__text\">80 LB ATV Broadcast Spreader<\/p><\/a>\n    <p class=\"custom-image-grid__text_reg\">Retail Value: $187.99<\/p>\t\n  <\/div>\n  <div class=\"custom-image-grid__item\">\n    <a href=\"https:\/\/banded.com\/products\/black-label-elite-insulated-realtree-legacy\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0805\/4738\/1552\/files\/Black_Label_Elite-Z_Wader.jpg?v=1724089795\" alt=\"Image 3\" class=\"custom-image-grid__img\"><\/a>\n    <a href=\"https:\/\/banded.com\/products\/black-label-elite-insulated-realtree-legacy\"><p class=\"custom-image-grid__text\">Black Label Elite-Z Wader<\/p><\/a>\n    <p class=\"custom-image-grid__text_reg\">Retail Value: $599.99<\/p>\t\n  <\/div>\n  <div class=\"custom-image-grid__item\">\n    <a href=\"https:\/\/banded.com\/products\/calefaction-3-n-1-insulated-wader-jacket?variant=44292853235883\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0805\/4738\/1552\/files\/Calefaction_3-in-1_Jacket.jpg?v=1724089795\" alt=\"Image 4\" class=\"custom-image-grid__img\"><\/a>\n    <a href=\"https:\/\/banded.com\/products\/calefaction-3-n-1-insulated-wader-jacket?variant=44292853235883\"><p class=\"custom-image-grid__text\">Calefaction 3-In-1 Jacket<\/p><\/a>\n    <p class=\"custom-image-grid__text_reg\">Retail Value: $329.99<\/p>\t\n  <\/div>\n  <div class=\"custom-image-grid__item\">\n    <a href=\"https:\/\/banded.com\/products\/pro-grade-xd-series-mallards-active-pack\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0805\/4738\/1552\/files\/XD_Series_Mallard_Decoys.jpg?v=1724089795\" alt=\"Image 5\" class=\"custom-image-grid__img\"><\/a>\n    <a href=\"https:\/\/banded.com\/products\/pro-grade-xd-series-mallards-active-pack\"><p class=\"custom-image-grid__text\">XD Series Mallard Decoys<\/p><\/a>\n    <p class=\"custom-image-grid__text_reg\">Retail Value: $199.99<\/p>\t\n  <\/div>\n<\/div>",
+        "color_scheme": "background-2",
+        "padding_top": 4,
+        "padding_bottom": 4
+      }
+    },
+    "custom_liquid_mNiqez": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<!-- Klaviyo Signup Form Integration -->\n<form \n  action=\"https:\/\/manage.kmail-lists.com\/subscriptions\/subscribe?a=WnSHXZ&g=RfuQuJ\" \n  method=\"POST\" \n  style=\"text-align: center; max-width: 100%; margin: 0 auto; padding: 20px; display: flex; flex-direction: column; align-items: center;\">\n\n  <!-- Email Input Field -->\n  <input \n    type=\"email\" \n    name=\"email\" \n    placeholder=\"ENTER YOUR EMAIL\" \n    required \n    style=\"padding: 10px; font-weight: 700; font-size: 16px; font-family: erbaum; width: 100%; max-width: 400px; margin-bottom: 10px; box-sizing: border-box;\">\n\n  <!-- Signup Button -->\n  <button \n    type=\"submit\" \n    style=\"background-color: #D97D2E; color: white; font-weight: 700; font-size: 30px; font-family: erbaum; text-transform: uppercase; padding: 10px; width: 100%; max-width: 400px; margin-bottom: 10px; border: none; cursor: pointer; box-sizing: border-box;\">\n    Sign Up\n  <\/button>\n\n  <!-- Consent Text -->\n  <p style=\"font-size: 14px; color: #555555; margin-top: 10px; max-width: 400px;\">\n    By submitting this form, you agree to receive recurring automated marketing messages from Titan Attachments. Msg frequency varies.\n  <\/p>\n<\/form>",
+        "color_scheme": "background-2",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "custom_liquid_GjRMXG": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<style>\n.countdown-timer {\n  text-align: center;\n  margin: 20px 0;\n}\n\n.countdown-timer__container {\n  display: inline-flex;\n  font-size: 30px;\n  font-weight: 700;\n  font-family: erbaum;\n  background-color: #F2F2F2;\n  padding: 10px 20px;\n  border-radius: 5px;\n  box-shadow: 0 2px 10px rgba(0, 0, 0, 0);\n}\n\n.countdown-timer__unit {\n  margin: 0 10px;\n}\n\n@media only screen and (max-width: 767px) {\n  .countdown-timer__container {\n    font-size: 30px;\n    padding: 5px 10px;\n  }\n}\n<\/style>\n\n\n<script>\n  document.addEventListener(\"DOMContentLoaded\", function() {\n  \/\/ Set the end time for the countdown\n  var endTime = new Date(\"September 6, 2024 23:59:59\").getTime();\n\n  function updateCountdown() {\n    var now = new Date().getTime();\n    var distance = endTime - now;\n\n    \/\/ Calculate days, hours, minutes, and seconds\n    var days = Math.floor(distance \/ (1000 * 60 * 60 * 24));\n    var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) \/ (1000 * 60 * 60));\n    var minutes = Math.floor((distance % (1000 * 60 * 60)) \/ (1000 * 60));\n    var seconds = Math.floor((distance % (1000 * 60)) \/ 1000);\n\n    \/\/ Display the results\n    document.getElementById(\"days\").innerText = String(days).padStart(2, '0');\n    document.getElementById(\"hours\").innerText = String(hours).padStart(2, '0');\n    document.getElementById(\"minutes\").innerText = String(minutes).padStart(2, '0');\n    document.getElementById(\"seconds\").innerText = String(seconds).padStart(2, '0');\n\n    \/\/ If the countdown is over, stop the timer\n    if (distance < 0) {\n      clearInterval(countdownTimer);\n      document.querySelector(\".countdown-timer__container\").innerText = \"EXPIRED\";\n    }\n  }\n\n  \/\/ Update the countdown every second\n  var countdownTimer = setInterval(updateCountdown, 1000);\n\n  \/\/ Initialize the countdown display\n  updateCountdown();\n});\n<\/script>\n\n<div class=\"countdown-timer\">\n<p style=\"text-align: center; color: #D97D2E; font-weight: 700; font-size: 30px; font-family: erbaum; text-transform: uppercase;\">Enter now before time runs out!<\/center><\/p>\n  <div class=\"countdown-timer__container\">\n    <span class=\"countdown-timer__unit\" id=\"days\">00<\/span>:\n    <span class=\"countdown-timer__unit\" id=\"hours\">00<\/span>:\n    <span class=\"countdown-timer__unit\" id=\"minutes\">00<\/span>:\n    <span class=\"countdown-timer__unit\" id=\"seconds\">00<\/span>\n  <\/div>\n<\/div>",
+        "color_scheme": "background-2",
+        "padding_top": 8,
+        "padding_bottom": 12
+      }
+    },
+    "custom_liquid_Yx687r": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<style>\n  .custom-paragraph {\n    padding: 0 30px;\n    font-size: 16px;\n    line-height: 1.5;\n    text-align: center;\n    margin: 0px 0px 0px 0px;\n  }\n\n  @media only screen and (max-width: 767px) {\n    .custom-paragraph {\n      font-size: 14px; \/* Adjust the font size for mobile screens *\/\n    }\n  }\n<\/style>\n\n<div class=\"custom-paragraph\">\nNo purchase is necessary to enter or win Titan Attachment’s Ultimate Duck Hunting Giveaway. A purchase or payment of any kind will not increase your chances of winning. This giveaway is open to residents of the 48 contiguous United States only (excluding Alaska and Hawaii). This giveaway ends September 6th. Sponsor: Titan Brands, LLC, 3839 Forrest Hill Irene Road, Suite 100, Memphis, TN 38125. \n<\/div>",
+        "color_scheme": "background-2",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "hero_banner_WEN7HN",
+    "rich_text_cQLEX4",
+    "custom_liquid_N66PEX",
+    "custom_liquid_mNiqez",
+    "custom_liquid_GjRMXG",
+    "custom_liquid_Yx687r"
+  ]
+}

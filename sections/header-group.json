@@ -1,0 +1,77 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "name": "t:sections.header.name",
+  "type": "header",
+  "sections": {
+    "19002a55-891a-4bf2-abaa-d29b0a3a85e6": {
+      "type": "top-announcement-bar",
+      "blocks": {
+        "sections--21340513403157__19002a55-891a-4bf2-abaa-d29b0a3a85e6-announcement-1": {
+          "type": "announcement",
+          "settings": {
+            "text": "Fast & Easy Shipping",
+            "icon": "shopify:\/\/shop_images\/Fast_Shipping.webp",
+            "link": "shopify:\/\/pages\/shipping-policy",
+            "prop": "Shipping available to continental USA only"
+          }
+        },
+        "a9c97c88-dff8-486b-8dcb-4afa39f57402": {
+          "type": "announcement",
+          "settings": {
+            "text": "Call our Experts Monday-Saturday",
+            "icon": "shopify:\/\/shop_images\/Ship_Same_Day.webp",
+            "link": "shopify:\/\/pages\/strategic-accounts",
+            "prop": "Call 800-605-7595 x4 Mon-Fri 7am-6pm CT & Saturday 8am-3pm CT"
+          }
+        },
+        "39551122-3014-4ba9-8ca1-94da94468bd6": {
+          "type": "announcement",
+          "settings": {
+            "text": "Buy Now, Pay Later",
+            "icon": "shopify:\/\/shop_images\/Buy_Now_Pay_Later.png",
+            "link": "shopify:\/\/pages\/financing",
+            "prop": "Splitpay or financing with 0% APR* available"
+          }
+        }
+      },
+      "block_order": [
+        "sections--21340513403157__19002a55-891a-4bf2-abaa-d29b0a3a85e6-announcement-1",
+        "a9c97c88-dff8-486b-8dcb-4afa39f57402",
+        "39551122-3014-4ba9-8ca1-94da94468bd6"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "show_line_separator": true
+      }
+    },
+    "header": {
+      "type": "header",
+      "settings": {
+        "menu": "main-menu",
+        "color_scheme": "accent-1",
+        "menu_color_scheme": "background-1",
+        "link_style": "n2"
+      }
+    },
+    "promo-bar": {
+      "type": "promo-bar",
+      "settings": {
+        "bg_color": "#232323",
+        "text_color": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "19002a55-891a-4bf2-abaa-d29b0a3a85e6",
+    "header",
+    "promo-bar"
+  ]
+}

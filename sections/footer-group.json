@@ -1,0 +1,163 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "name": "t:sections.footer.name",
+  "type": "footer",
+  "sections": {
+    "92c11ef8-b56e-4806-95b1-238fa9d2540c": {
+      "type": "customer-support",
+      "blocks": {
+        "58803bc9-ba65-417f-b3f0-ed6de4f4fed0": {
+          "type": "icon",
+          "settings": {
+            "icon_svg": "phone",
+            "title": "<strong>Call or Text<\/strong>",
+            "description": "<p>To place a new order or for assistance with an existing order call or text us at <a href=\"tel:800-605-7595\" title=\"tel:800-605-7595\">800-605-7595<\/a><\/p>",
+            "title_time": "<p>Mon-Fri: 7am - 6pm CT<br\/>Sat: 8am - 3pm CT<\/p><p>Sun: Closed<\/p>"
+          }
+        },
+        "3f3e46dd-f385-44b1-87ee-888228f54261": {
+          "type": "icon",
+          "settings": {
+            "icon_svg": "chat",
+            "title": "<strong>Live Chat<\/strong>",
+            "description": "<p>Have questions or need help? Chat with us using the icon in the bottom left.<\/p>",
+            "title_time": "<p>Mon-Fri: 8am-4:30pm CT<br\/>Sat-Sun: Closed<\/p>"
+          }
+        },
+        "67898928-3955-477c-a98b-7cea0d9b6629": {
+          "type": "icon",
+          "settings": {
+            "icon_svg": "email",
+            "title": "<strong>Email<\/strong>",
+            "description": "<p>You can also <a href=\"https:\/\/support.palletforks.com\/hc\/en-us\/requests\/new\" target=\"_blank\" title=\"https:\/\/support.palletforks.com\/hc\/en-us\/requests\/new\">email us <\/a>for customer service or product support.<\/p>",
+            "title_time": "<p>Most emails are answered within 1 business day, but can take up to 3 business days.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "58803bc9-ba65-417f-b3f0-ed6de4f4fed0",
+        "3f3e46dd-f385-44b1-87ee-888228f54261",
+        "67898928-3955-477c-a98b-7cea0d9b6629"
+      ],
+      "settings": {
+        "heading": "Customer Support",
+        "heading_tag": "h2",
+        "desc": "<p>If you need support, we’re here to help.<\/p>",
+        "color_scheme": "background-1"
+      }
+    },
+    "a92620f6-ff75-4f72-80ab-77fa361ec2f8": {
+      "type": "footer-links",
+      "blocks": {
+        "053b054d-874d-4ffa-a8d3-e82898fc7b72": {
+          "type": "links",
+          "disabled": true,
+          "settings": {
+            "title": "Sales Assistance",
+            "heading_tag": "h3",
+            "heading_style": "n1",
+            "menu": "sales-assitance"
+          }
+        },
+        "links_Pf6pjH": {
+          "type": "links",
+          "settings": {
+            "title": "About",
+            "heading_tag": "h3",
+            "heading_style": "b1",
+            "menu": "about-us"
+          }
+        },
+        "fe115553-8e81-4e39-95b5-7029a9936c0e": {
+          "type": "links",
+          "settings": {
+            "title": "Customer Service",
+            "heading_tag": "h3",
+            "heading_style": "b1",
+            "menu": "customer-service"
+          }
+        },
+        "links_YiPDiD": {
+          "type": "links",
+          "settings": {
+            "title": "Learn More",
+            "heading_tag": "h3",
+            "heading_style": "b1",
+            "menu": "learn-more"
+          }
+        },
+        "253ee92d-4222-4146-b7a6-3610d016d51d": {
+          "type": "links",
+          "settings": {
+            "title": "Account",
+            "heading_tag": "h3",
+            "heading_style": "b1",
+            "menu": "account"
+          }
+        },
+        "83a12f88-5153-4664-9c0c-34d9cd29cdf8": {
+          "type": "proof_img",
+          "settings": {
+            "proof_img": "shopify:\/\/shop_images\/BBB-cert.webp",
+            "proof_img_svg": ""
+          }
+        },
+        "c71ba43b-dbbe-4a89-8769-f9090b8967f7": {
+          "type": "proof_img",
+          "settings": {
+            "proof_img": "shopify:\/\/shop_images\/Reviews.io-cert.webp",
+            "proof_img_svg": ""
+          }
+        },
+        "25d63f1f-386b-433b-ade3-b4f46aeffbdf": {
+          "type": "proof_img",
+          "settings": {
+            "proof_img": "shopify:\/\/shop_images\/Allyant-cert.webp",
+            "proof_img_svg": ""
+          }
+        },
+        "a4d06fa1-32f8-42a7-97ea-8364303102d6": {
+          "type": "copyright_menu",
+          "settings": {
+            "copy_menu": "copy-right-menu"
+          }
+        }
+      },
+      "block_order": [
+        "053b054d-874d-4ffa-a8d3-e82898fc7b72",
+        "links_Pf6pjH",
+        "fe115553-8e81-4e39-95b5-7029a9936c0e",
+        "links_YiPDiD",
+        "253ee92d-4222-4146-b7a6-3610d016d51d",
+        "83a12f88-5153-4664-9c0c-34d9cd29cdf8",
+        "c71ba43b-dbbe-4a89-8769-f9090b8967f7",
+        "25d63f1f-386b-433b-ade3-b4f46aeffbdf",
+        "a4d06fa1-32f8-42a7-97ea-8364303102d6"
+      ],
+      "settings": {
+        "heading": "Sign Me Up",
+        "heading_tag": "h2",
+        "heading_style": "h2",
+        "desc": "Be first to know about new products, deals and giveaways.",
+        "klaviyo_form_id": "YgkeC5",
+        "country_flag": "shopify:\/\/shop_images\/FlagIcon.png",
+        "country_flag_svg": "",
+        "country_name": "US",
+        "copy_text": "Titan Attachments. All Rights Reserved.",
+        "color_scheme": ""
+      }
+    }
+  },
+  "order": [
+    "92c11ef8-b56e-4806-95b1-238fa9d2540c",
+    "a92620f6-ff75-4f72-80ab-77fa361ec2f8"
+  ]
+}
