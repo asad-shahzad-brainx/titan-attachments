@@ -1,20 +1,11 @@
-/*
- * ------------------------------------------------------------
- * IMPORTANT: The contents of this file are auto-generated.
- *
- * This file may be updated by the Shopify admin theme editor
- * or related systems. Please exercise caution as any changes
- * made to this file may be overwritten.
- * ------------------------------------------------------------
- */
 {
   "current": {
-    "logo": "shopify://shop_images/titan-attachments-logo-primary.png",
+    "logo": "shopify:\/\/shop_images\/titan-attachments-logo-primary.png",
     "logo_width": 90,
     "mobile_logo_width": 80,
-    "search_logo": "shopify://shop_images/Titan_Attachment_-_Pallet_Forks_and_Accessories.svg",
+    "search_logo": "shopify:\/\/shop_images\/Titan_Attachment_-_Pallet_Forks_and_Accessories.svg",
     "search_logo_width": 90,
-    "favicon": "shopify://shop_images/Primary_1.svg",
+    "favicon": "shopify:\/\/shop_images\/Primary_1.svg",
     "type_header_font": "assistant_n4",
     "heading_scale": 100,
     "type_body_font": "assistant_n4",
@@ -46,10 +37,10 @@
     "inputs_shadow_horizontal_offset": 0,
     "inputs_shadow_vertical_offset": 0,
     "inputs_shadow_blur": 5,
-    "promo_text": "⚡ BLACK FRIDAY DOORBUSTER DEAL -<a href=\"https://palletforks.com/products/extreme-root-grapple-rake-attachments\" style=\"color: #ffffff; font-weight: 500; font-size: 14px; text-decoration: underline !important; margin-left: 5px ;white-space: nowrap;\">Up to $900 Off Extreme Root Grapple Rakes</a>",
-    "cta_label": "Shop All Deals",
-    "cta_link": "shopify://collections/black-friday-deals",
-    "quantity_threshold": 25,
+    "promo_text": "⚡ Deal of the Week -<a href=\"https:\/\/palletforks.com\/products\/economy-root-grapple-bucket-fits-john-deere-tractors?variant=47327945589040\" style=\"color: #ffffff; font-weight: 500; font-size: 14px; text-decoration: underline !important; margin-left: 5px ;white-space: nowrap;\">$550 Off the 60\" Economy Root Grapple Bucket<\/a>",
+    "cta_label": "Shop All End of Year Deals",
+    "cta_link": "shopify:\/\/collections\/weekly-deals",
+    "quantity_threshold": 10,
     "card_style": "standard",
     "card_image_padding": 0,
     "card_text_alignment": "left",
@@ -115,10 +106,10 @@
     "sale_badge_color_scheme": "background-1",
     "sold_out_badge_color_scheme": "inverse",
     "brand_headline": "",
-    "brand_description": "<p></p>",
+    "brand_description": "<p><\/p>",
     "brand_image_width": 100,
-    "social_facebook_link": "https://www.facebook.com/TitanAttachments/",
-    "social_instagram_link": "https://www.instagram.com/titanattachments/",
+    "social_facebook_link": "https:\/\/www.facebook.com\/TitanAttachments\/",
+    "social_instagram_link": "https:\/\/www.instagram.com\/titanattachments\/",
     "social_youtube_link": "",
     "social_tiktok_link": "",
     "social_twitter_link": "",
@@ -133,21 +124,21 @@
     "free_shipping_text": "Fast & Free Shipping on Every Order",
     "free_shipping_subtext": "Handling fee applies to oversize items",
     "buy_now_pay_later_text": "Buy Now, Pay Later",
-    "buy_now_pay_later_subtext": "<p>Flexible payment options available with <a href=\"/pages/financing\" target=\"_blank\" title=\"Bread Pay™ Financing\">Bread Pay™</a></p>",
-    "warranty_subtext": "<p>Extended coverage available with <a href=\"/pages/warranty\" target=\"_blank\" title=\"Warranty\">Mulberry</a></p>",
-    "sale_badge_text": "Limited Time Black Friday Deal",
+    "buy_now_pay_later_subtext": "<p>Flexible payment options available with <a href=\"\/pages\/financing\" target=\"_blank\" title=\"Bread Pay™ Financing\">Bread Pay™<\/a><\/p>",
+    "warranty_subtext": "<p>Extended coverage available with <a href=\"\/pages\/warranty\" target=\"_blank\" title=\"Warranty\">Mulberry<\/a><\/p>",
+    "sale_badge_text": "Limited Time Offer",
     "sale_badge_text_color": "#000000",
     "sale_badge_bg_color": "#f2f2f2",
     "cart_type": "drawer",
     "show_vendor": false,
     "show_cart_note": false,
     "cart_drawer_collection": "",
-    "zendesk_code": "<!-- Start of titanattachments Zendesk Widget script -->\n<script id=\"ze-snippet\" src=\"https://static.zdassets.com/ekr/snippet.js?key=117efd58-9bf8-46e6-b435-5067698630d3\"> </script>\n<!-- End of titanattachments Zendesk Widget script -->",
+    "zendesk_code": "<!-- Start of titanattachments Zendesk Widget script -->\n<script id=\"ze-snippet\" src=\"https:\/\/static.zdassets.com\/ekr\/snippet.js?key=117efd58-9bf8-46e6-b435-5067698630d3\"> <\/script>\n<!-- End of titanattachments Zendesk Widget script -->",
     "reviewsio_store_name": "titan-attachments",
     "klaviyo_account": "VKsgZj",
     "vwo_account_id": "",
-    "forter_code": "<script type=\"text/javascript\" id=\"bb942cee485e\">\n    (function () {\n        var merchantConfig = {\n            csp: false\n        };\n        var siteId = \"bb942cee485e\";\nfunction t(t,n){for(var e=t.split(\"\"),r=0;r<e.length;++r)e[r]=String.fromCharCode(e[r].charCodeAt(0)+n);return e.join(\"\")}function n(n){return t(n,-L).replace(/%SN%/g,siteId)}function e(){var t=\"no\"+\"op\"+\"fn\",n=\"g\"+\"a\",e=\"n\"+\"ame\";return window[n]&&window[n][e]===t}function r(){return!(!navigator.brave||\"function\"!=typeof navigator.brave.isBrave)}function o(){return document.currentScript&&document.currentScript.src}function i(t){try{if(\"number\"==typeof t&&window.location&&window.location.pathname){for(var n=window.location.pathname.split(\"/\"),e=[],r=0;r<=Math.min(n.length-1,Math.abs(t));r++)e.push(n[r]);return e.join(\"/\")||\"/\"}}catch(t){}return\"/\"}function c(t){try{G.ex=t,e()&&-1===G.ex.indexOf(B.uB)&&(G.ex+=B.uB),r()&&-1===G.ex.indexOf(B.uBr)&&(G.ex+=B.uBr),o()&&-1===G.ex.indexOf(B.nIL)&&(G.ex+=B.nIL),window.ftr__snp_cwc||(G.ex+=B.s),q(G)}catch(t){}}function a(t,n){function e(o){try{o.blockedURI===t&&(n(),document.removeEventListener(r,e))}catch(t){document.removeEventListener(r,e)}}var r=\"securitypolicyviolation\";document.addEventListener(r,e),setTimeout(function(){document.removeEventListener(r,e)},2*60*1e3)}function u(t,n,e,r){var o=!1;t=\"https://\"+t,a(t,function(){r(!0),o=!0});var i=document.createElement(\"script\");i.onerror=function(){if(!o)try{r(!1),o=!0}catch(t){}},i.onload=e,i.type=\"text/javascript\",i.id=\"ftr__script\",i.async=!0,i.src=t;var c=document.getElementsByTagName(\"script\")[0];c.parentNode.insertBefore(i,c)}function f(t,n,e,r){var o=!1,i=new XMLHttpRequest;if(a(\"https:\"+t,function(){e(new Error(\"CSP Violation\"),!0),o=!0}),\"//\"===t.slice(0,2)&&(t=\"https:\"+t),\"withCredentials\"in i)i.open(\"GET\",t,!0);else{if(\"undefined\"==typeof XDomainRequest)return;i=new XDomainRequest,i.open(\"GET\",t)}Object.keys(r).forEach(function(t){i.setRequestHeader(t,r[t])}),i.onload=function(){\"function\"==typeof n&&n(i)},i.onerror=function(t){if(\"function\"==typeof e&&!o)try{e(t,!1),o=!0}catch(t){}},i.onprogress=function(){},i.ontimeout=function(){\"function\"==typeof e&&e(\"tim\"+\"eo\"+\"ut\",!1)},setTimeout(function(){i.send()},0)}function d(t,siteId,n){function e(t){var n=t.toString(16);return n.length%2?\"0\"+n:n}function r(t){if(t<=0)return\"\";for(var n=\"0123456789abcdef\",e=\"\",r=0;r<t;r++)e+=n[Math.floor(Math.random()*n.length)];return e}function o(t){for(var n=\"\",r=0;r<t.length;r++)n+=e(t.charCodeAt(r));return n}function i(t){for(var n=t.split(\"\"),e=0;e<n.length;++e)n[e]=String.fromCharCode(255^n[e].charCodeAt(0));return n.join(\"\")}n=n?\"1\":\"0\";var c=[];return c.push(t),c.push(siteId),c.push(n),function(t){var n=40,e=\"\";return t.length<n/2&&(e=\",\"+r(n/2-t.length-1)),o(i(t+e))}(c.join(\",\"))}function s(){function t(){b&&(z(B.dUAL),setTimeout(w,I,B.dUAL))}function n(t,n){c(n?B.uAS+B.uF+B.cP:B.uAS+B.uF)}window.ftr__fdad(t,n)}function w(t){try{var n=t===B.uDF?E:b;if(!n)return;u(n,void 0,function(){try{$(),c(t+B.uS)}catch(t){}},function(n){try{$(),G.td=1*new Date-G.ts,c(n?t+B.uF+B.cP:t+B.uF),t===B.uDF&&s()}catch(t){c(B.eUoe)}})}catch(n){c(t+B.eTlu)}}var h=\"22g5o{trgtes|:f51forxgiurqw1qhw2vwdwxv\",v=\"fort\",m=\"erTo\",l=\"ken\";window.ftr__config={m:merchantConfig,s:\"21\",si:siteId};var p=!1,g=v+m+l,_=400*24*60,y=10,T={write:function(t,n,e,r){void 0===r&&(r=!0);var o=0;window.ftr__config&&window.ftr__config.m&&window.ftr__config.m.ckDepth&&(o=window.ftr__config.m.ckDepth);var c,a,u=i(o);if(e?(c=new Date,c.setTime(c.getTime()+60*e*1e3),a=\"; expires=\"+c.toGMTString()):a=\"\",!r)return void(document.cookie=escape(t)+\"=\"+escape(n)+a+\"; path=\"+u);for(var f=1,d=document.domain.split(\".\"),s=y,w=!0;w&&d.length>=f&&s>0;){var h=d.slice(-f).join(\".\");document.cookie=escape(t)+\"=\"+escape(n)+a+\"; path=\"+u+\"; domain=\"+h;var v=T.read(t);null!=v&&v==n||(h=\".\"+h,document.cookie=escape(t)+\"=\"+escape(n)+a+\"; path=\"+u+\"; domain=\"+h),w=-1===document.cookie.indexOf(t+\"=\"+n),f++,s--}},read:function(t){var n=null;try{for(var e=escape(t)+\"=\",r=document.cookie.split(\";\"),o=32,i=0;i<r.length;i++){for(var c=r[i];c.charCodeAt(0)===o;)c=c.substring(1,c.length);0===c.indexOf(e)&&(n=unescape(c.substring(e.length,c.length)))}}finally{return n}}},S=window.ftr__config.s;S+=\"ck\";var x=function(t){var n=!1,e=null,r=function(){try{if(!e||!n)return;e.remove&&\"function\"==typeof e.remove?e.remove():document.head.removeChild(e),n=!1}catch(t){}};document.head&&(!function(){e=document.createElement(\"link\"),e.setAttribute(\"rel\",\"pre\"+\"con\"+\"nect\"),e.setAttribute(\"cros\"+\"sori\"+\"gin\",\"anonymous\"),e.onload=r,e.onerror=r,e.setAttribute(\"href\",t),document.head.appendChild(e),n=!0}(),setTimeout(r,3e3))},L=3,k=n(h||\"22g5o{trgtes|:f51forxgiurqw1qhw2vwdwxv\"),A=t(\"[0Uhtxhvw0LG\",-L),U=t(\"[0Fruuhodwlrq0LG\",-L),D=t(\"Li0Qrqh0Pdwfk\",-L),b,C=\"fgq71iruwhu1frp\",E=n(\"(VQ(1\"+C+\"2vq2(VQ(2vfulsw1mv\"),F=n(\"(VQ(1\"+C+\"2vqV2(VQ(2vfulsw1mv\"),I=10;window.ftr__startScriptLoad=1*new Date;var V=function(t){var n=\"ft\"+\"r:tok\"+\"enR\"+\"eady\";window.ftr__tt&&clearTimeout(window.ftr__tt),window.ftr__tt=setTimeout(function(){try{delete window.ftr__tt,t+=\"_tt\";var e=document.createEvent(\"Event\");e.initEvent(n,!1,!1),e.detail=t,document.dispatchEvent(e)}catch(t){}},1e3)},q=function(t){var n=function(t){return t||\"\"},e=n(t.id)+\"_\"+n(t.ts)+\"_\"+n(t.td)+\"_\"+n(t.ex)+\"_\"+n(S),r=_;!isNaN(window.ftr__config.m.ckTTL)&&window.ftr__config.m.ckTTL&&(r=window.ftr__config.m.ckTTL),T.write(g,e,r,!0),V(e),window.ftr__gt=e},R=function(){var t=T.read(g)||\"\",n=t.split(\"_\"),e=function(t){return n[t]||void 0};return{id:e(0),ts:e(1),td:e(2),ex:e(3),vr:e(4)}},M=function(){for(var t={},n=\"fgu\",e=[],r=0;r<256;r++)e[r]=(r<16?\"0\":\"\")+r.toString(16);var o=function(t,n,r,o,i){var c=i?\"-\":\"\";return e[255&t]+e[t>>8&255]+e[t>>16&255]+e[t>>24&255]+c+e[255&n]+e[n>>8&255]+c+e[n>>16&15|64]+e[n>>24&255]+c+e[63&r|128]+e[r>>8&255]+c+e[r>>16&255]+e[r>>24&255]+e[255&o]+e[o>>8&255]+e[o>>16&255]+e[o>>24&255]},i=function(){if(window.Uint32Array&&window.crypto&&window.crypto.getRandomValues){var t=new window.Uint32Array(4);return window.crypto.getRandomValues(t),{d0:t[0],d1:t[1],d2:t[2],d3:t[3]}}return{d0:4294967296*Math.random()>>>0,d1:4294967296*Math.random()>>>0,d2:4294967296*Math.random()>>>0,d3:4294967296*Math.random()>>>0}},c=function(){var t=\"\",n=function(t,n){for(var e=\"\",r=t;r>0;--r)e+=n.charAt(1e3*Math.random()%n.length);return e};return t+=n(2,\"0123456789\"),t+=n(1,\"123456789\"),t+=n(8,\"0123456789\")};return t.safeGenerateNoDash=function(){try{var t=i();return o(t.d0,t.d1,t.d2,t.d3,!1)}catch(t){try{return n+c()}catch(t){}}},t.isValidNumericalToken=function(t){return t&&t.toString().length<=11&&t.length>=9&&parseInt(t,10).toString().length<=11&&parseInt(t,10).toString().length>=9},t.isValidUUIDToken=function(t){return t&&32===t.toString().length&&/^[a-z0-9]+$/.test(t)},t.isValidFGUToken=function(t){return 0==t.indexOf(n)&&t.length>=12},t}(),B={uDF:\"UDF\",dUAL:\"dUAL\",uAS:\"UAS\",mLd:\"1\",eTlu:\"2\",eUoe:\"3\",uS:\"4\",uF:\"9\",tmos:[\"T5\",\"T10\",\"T15\",\"T30\",\"T60\"],tmosSecs:[5,10,15,30,60],bIR:\"43\",uB:\"u\",uBr:\"b\",cP:\"c\",nIL:\"i\",s:\"s\"};try{var G=R();try{G.id&&(M.isValidNumericalToken(G.id)||M.isValidUUIDToken(G.id)||M.isValidFGUToken(G.id))?window.ftr__ncd=!1:(G.id=M.safeGenerateNoDash(),window.ftr__ncd=!0),G.ts=window.ftr__startScriptLoad,q(G),window.ftr__snp_cwc=!!T.read(g),window.ftr__snp_cwc||(E=F);for(var N=\"for\"+\"ter\"+\".co\"+\"m\",O=\"ht\"+\"tps://c\"+\"dn9.\"+N,j=\"ht\"+\"tps://\"+G.id+\"-\"+siteId+\".cd\"+\"n.\"+N,H=\"http\"+\"s://cd\"+\"n3.\"+N,P=[O,j,H],Q=0;Q<P.length;Q++)x(P[Q]);var X=new Array(B.tmosSecs.length),z=function(t){for(var n=0;n<B.tmosSecs.length;n++)X[n]=setTimeout(c,1e3*B.tmosSecs[n],t+B.tmos[n])},$=function(){for(var t=0;t<B.tmosSecs.length;t++)clearTimeout(X[t])};window.ftr__fdad=function(n,e){if(!p){p=!0;var r={};r[D]=d(window.ftr__config.s,siteId,window.ftr__config.m.csp),f(k,function(e){try{var r=e.getAllResponseHeaders().toLowerCase();if(r.indexOf(U.toLowerCase())>=0){var o=e.getResponseHeader(U);window.ftr__altd2=t(atob(o),-L-1)}if(r.indexOf(A.toLowerCase())<0)return;var i=e.getResponseHeader(A),c=t(atob(i),-L-1);if(c){var a=c.split(\":\");if(a&&2===a.length){for(var u=a[0],f=a[1],d=\"\",s=0,w=0;s<20;++s)d+=s%3>0&&w<12?siteId.charAt(w++):G.id.charAt(s);var h=f.split(\",\");if(h.length>1){var v=h[0],m=h[1];b=u+\"/\"+v+\".\"+d+\".\"+m}}}n()}catch(t){}},function(t,n){e&&e(t,n)},r)}},z(B.uDF),setTimeout(w,I,B.uDF)}catch(t){c(B.mLd)}}catch(t){}})();\n</script>",
-    "sale_disclaimer": "<em>Promo codes are not eligible on sale items</em>",
+    "forter_code": "<script type=\"text\/javascript\" id=\"bb942cee485e\">\n    (function () {\n        var merchantConfig = {\n            csp: false\n        };\n        var siteId = \"bb942cee485e\";\nfunction t(t,n){for(var e=t.split(\"\"),r=0;r<e.length;++r)e[r]=String.fromCharCode(e[r].charCodeAt(0)+n);return e.join(\"\")}function n(n){return t(n,-L).replace(\/%SN%\/g,siteId)}function e(){var t=\"no\"+\"op\"+\"fn\",n=\"g\"+\"a\",e=\"n\"+\"ame\";return window[n]&&window[n][e]===t}function r(){return!(!navigator.brave||\"function\"!=typeof navigator.brave.isBrave)}function o(){return document.currentScript&&document.currentScript.src}function i(t){try{if(\"number\"==typeof t&&window.location&&window.location.pathname){for(var n=window.location.pathname.split(\"\/\"),e=[],r=0;r<=Math.min(n.length-1,Math.abs(t));r++)e.push(n[r]);return e.join(\"\/\")||\"\/\"}}catch(t){}return\"\/\"}function c(t){try{G.ex=t,e()&&-1===G.ex.indexOf(B.uB)&&(G.ex+=B.uB),r()&&-1===G.ex.indexOf(B.uBr)&&(G.ex+=B.uBr),o()&&-1===G.ex.indexOf(B.nIL)&&(G.ex+=B.nIL),window.ftr__snp_cwc||(G.ex+=B.s),q(G)}catch(t){}}function a(t,n){function e(o){try{o.blockedURI===t&&(n(),document.removeEventListener(r,e))}catch(t){document.removeEventListener(r,e)}}var r=\"securitypolicyviolation\";document.addEventListener(r,e),setTimeout(function(){document.removeEventListener(r,e)},2*60*1e3)}function u(t,n,e,r){var o=!1;t=\"https:\/\/\"+t,a(t,function(){r(!0),o=!0});var i=document.createElement(\"script\");i.onerror=function(){if(!o)try{r(!1),o=!0}catch(t){}},i.onload=e,i.type=\"text\/javascript\",i.id=\"ftr__script\",i.async=!0,i.src=t;var c=document.getElementsByTagName(\"script\")[0];c.parentNode.insertBefore(i,c)}function f(t,n,e,r){var o=!1,i=new XMLHttpRequest;if(a(\"https:\"+t,function(){e(new Error(\"CSP Violation\"),!0),o=!0}),\"\/\/\"===t.slice(0,2)&&(t=\"https:\"+t),\"withCredentials\"in i)i.open(\"GET\",t,!0);else{if(\"undefined\"==typeof XDomainRequest)return;i=new XDomainRequest,i.open(\"GET\",t)}Object.keys(r).forEach(function(t){i.setRequestHeader(t,r[t])}),i.onload=function(){\"function\"==typeof n&&n(i)},i.onerror=function(t){if(\"function\"==typeof e&&!o)try{e(t,!1),o=!0}catch(t){}},i.onprogress=function(){},i.ontimeout=function(){\"function\"==typeof e&&e(\"tim\"+\"eo\"+\"ut\",!1)},setTimeout(function(){i.send()},0)}function d(t,siteId,n){function e(t){var n=t.toString(16);return n.length%2?\"0\"+n:n}function r(t){if(t<=0)return\"\";for(var n=\"0123456789abcdef\",e=\"\",r=0;r<t;r++)e+=n[Math.floor(Math.random()*n.length)];return e}function o(t){for(var n=\"\",r=0;r<t.length;r++)n+=e(t.charCodeAt(r));return n}function i(t){for(var n=t.split(\"\"),e=0;e<n.length;++e)n[e]=String.fromCharCode(255^n[e].charCodeAt(0));return n.join(\"\")}n=n?\"1\":\"0\";var c=[];return c.push(t),c.push(siteId),c.push(n),function(t){var n=40,e=\"\";return t.length<n\/2&&(e=\",\"+r(n\/2-t.length-1)),o(i(t+e))}(c.join(\",\"))}function s(){function t(){b&&(z(B.dUAL),setTimeout(w,I,B.dUAL))}function n(t,n){c(n?B.uAS+B.uF+B.cP:B.uAS+B.uF)}window.ftr__fdad(t,n)}function w(t){try{var n=t===B.uDF?E:b;if(!n)return;u(n,void 0,function(){try{$(),c(t+B.uS)}catch(t){}},function(n){try{$(),G.td=1*new Date-G.ts,c(n?t+B.uF+B.cP:t+B.uF),t===B.uDF&&s()}catch(t){c(B.eUoe)}})}catch(n){c(t+B.eTlu)}}var h=\"22g5o{trgtes|:f51forxgiurqw1qhw2vwdwxv\",v=\"fort\",m=\"erTo\",l=\"ken\";window.ftr__config={m:merchantConfig,s:\"21\",si:siteId};var p=!1,g=v+m+l,_=400*24*60,y=10,T={write:function(t,n,e,r){void 0===r&&(r=!0);var o=0;window.ftr__config&&window.ftr__config.m&&window.ftr__config.m.ckDepth&&(o=window.ftr__config.m.ckDepth);var c,a,u=i(o);if(e?(c=new Date,c.setTime(c.getTime()+60*e*1e3),a=\"; expires=\"+c.toGMTString()):a=\"\",!r)return void(document.cookie=escape(t)+\"=\"+escape(n)+a+\"; path=\"+u);for(var f=1,d=document.domain.split(\".\"),s=y,w=!0;w&&d.length>=f&&s>0;){var h=d.slice(-f).join(\".\");document.cookie=escape(t)+\"=\"+escape(n)+a+\"; path=\"+u+\"; domain=\"+h;var v=T.read(t);null!=v&&v==n||(h=\".\"+h,document.cookie=escape(t)+\"=\"+escape(n)+a+\"; path=\"+u+\"; domain=\"+h),w=-1===document.cookie.indexOf(t+\"=\"+n),f++,s--}},read:function(t){var n=null;try{for(var e=escape(t)+\"=\",r=document.cookie.split(\";\"),o=32,i=0;i<r.length;i++){for(var c=r[i];c.charCodeAt(0)===o;)c=c.substring(1,c.length);0===c.indexOf(e)&&(n=unescape(c.substring(e.length,c.length)))}}finally{return n}}},S=window.ftr__config.s;S+=\"ck\";var x=function(t){var n=!1,e=null,r=function(){try{if(!e||!n)return;e.remove&&\"function\"==typeof e.remove?e.remove():document.head.removeChild(e),n=!1}catch(t){}};document.head&&(!function(){e=document.createElement(\"link\"),e.setAttribute(\"rel\",\"pre\"+\"con\"+\"nect\"),e.setAttribute(\"cros\"+\"sori\"+\"gin\",\"anonymous\"),e.onload=r,e.onerror=r,e.setAttribute(\"href\",t),document.head.appendChild(e),n=!0}(),setTimeout(r,3e3))},L=3,k=n(h||\"22g5o{trgtes|:f51forxgiurqw1qhw2vwdwxv\"),A=t(\"[0Uhtxhvw0LG\",-L),U=t(\"[0Fruuhodwlrq0LG\",-L),D=t(\"Li0Qrqh0Pdwfk\",-L),b,C=\"fgq71iruwhu1frp\",E=n(\"(VQ(1\"+C+\"2vq2(VQ(2vfulsw1mv\"),F=n(\"(VQ(1\"+C+\"2vqV2(VQ(2vfulsw1mv\"),I=10;window.ftr__startScriptLoad=1*new Date;var V=function(t){var n=\"ft\"+\"r:tok\"+\"enR\"+\"eady\";window.ftr__tt&&clearTimeout(window.ftr__tt),window.ftr__tt=setTimeout(function(){try{delete window.ftr__tt,t+=\"_tt\";var e=document.createEvent(\"Event\");e.initEvent(n,!1,!1),e.detail=t,document.dispatchEvent(e)}catch(t){}},1e3)},q=function(t){var n=function(t){return t||\"\"},e=n(t.id)+\"_\"+n(t.ts)+\"_\"+n(t.td)+\"_\"+n(t.ex)+\"_\"+n(S),r=_;!isNaN(window.ftr__config.m.ckTTL)&&window.ftr__config.m.ckTTL&&(r=window.ftr__config.m.ckTTL),T.write(g,e,r,!0),V(e),window.ftr__gt=e},R=function(){var t=T.read(g)||\"\",n=t.split(\"_\"),e=function(t){return n[t]||void 0};return{id:e(0),ts:e(1),td:e(2),ex:e(3),vr:e(4)}},M=function(){for(var t={},n=\"fgu\",e=[],r=0;r<256;r++)e[r]=(r<16?\"0\":\"\")+r.toString(16);var o=function(t,n,r,o,i){var c=i?\"-\":\"\";return e[255&t]+e[t>>8&255]+e[t>>16&255]+e[t>>24&255]+c+e[255&n]+e[n>>8&255]+c+e[n>>16&15|64]+e[n>>24&255]+c+e[63&r|128]+e[r>>8&255]+c+e[r>>16&255]+e[r>>24&255]+e[255&o]+e[o>>8&255]+e[o>>16&255]+e[o>>24&255]},i=function(){if(window.Uint32Array&&window.crypto&&window.crypto.getRandomValues){var t=new window.Uint32Array(4);return window.crypto.getRandomValues(t),{d0:t[0],d1:t[1],d2:t[2],d3:t[3]}}return{d0:4294967296*Math.random()>>>0,d1:4294967296*Math.random()>>>0,d2:4294967296*Math.random()>>>0,d3:4294967296*Math.random()>>>0}},c=function(){var t=\"\",n=function(t,n){for(var e=\"\",r=t;r>0;--r)e+=n.charAt(1e3*Math.random()%n.length);return e};return t+=n(2,\"0123456789\"),t+=n(1,\"123456789\"),t+=n(8,\"0123456789\")};return t.safeGenerateNoDash=function(){try{var t=i();return o(t.d0,t.d1,t.d2,t.d3,!1)}catch(t){try{return n+c()}catch(t){}}},t.isValidNumericalToken=function(t){return t&&t.toString().length<=11&&t.length>=9&&parseInt(t,10).toString().length<=11&&parseInt(t,10).toString().length>=9},t.isValidUUIDToken=function(t){return t&&32===t.toString().length&&\/^[a-z0-9]+$\/.test(t)},t.isValidFGUToken=function(t){return 0==t.indexOf(n)&&t.length>=12},t}(),B={uDF:\"UDF\",dUAL:\"dUAL\",uAS:\"UAS\",mLd:\"1\",eTlu:\"2\",eUoe:\"3\",uS:\"4\",uF:\"9\",tmos:[\"T5\",\"T10\",\"T15\",\"T30\",\"T60\"],tmosSecs:[5,10,15,30,60],bIR:\"43\",uB:\"u\",uBr:\"b\",cP:\"c\",nIL:\"i\",s:\"s\"};try{var G=R();try{G.id&&(M.isValidNumericalToken(G.id)||M.isValidUUIDToken(G.id)||M.isValidFGUToken(G.id))?window.ftr__ncd=!1:(G.id=M.safeGenerateNoDash(),window.ftr__ncd=!0),G.ts=window.ftr__startScriptLoad,q(G),window.ftr__snp_cwc=!!T.read(g),window.ftr__snp_cwc||(E=F);for(var N=\"for\"+\"ter\"+\".co\"+\"m\",O=\"ht\"+\"tps:\/\/c\"+\"dn9.\"+N,j=\"ht\"+\"tps:\/\/\"+G.id+\"-\"+siteId+\".cd\"+\"n.\"+N,H=\"http\"+\"s:\/\/cd\"+\"n3.\"+N,P=[O,j,H],Q=0;Q<P.length;Q++)x(P[Q]);var X=new Array(B.tmosSecs.length),z=function(t){for(var n=0;n<B.tmosSecs.length;n++)X[n]=setTimeout(c,1e3*B.tmosSecs[n],t+B.tmos[n])},$=function(){for(var t=0;t<B.tmosSecs.length;t++)clearTimeout(X[t])};window.ftr__fdad=function(n,e){if(!p){p=!0;var r={};r[D]=d(window.ftr__config.s,siteId,window.ftr__config.m.csp),f(k,function(e){try{var r=e.getAllResponseHeaders().toLowerCase();if(r.indexOf(U.toLowerCase())>=0){var o=e.getResponseHeader(U);window.ftr__altd2=t(atob(o),-L-1)}if(r.indexOf(A.toLowerCase())<0)return;var i=e.getResponseHeader(A),c=t(atob(i),-L-1);if(c){var a=c.split(\":\");if(a&&2===a.length){for(var u=a[0],f=a[1],d=\"\",s=0,w=0;s<20;++s)d+=s%3>0&&w<12?siteId.charAt(w++):G.id.charAt(s);var h=f.split(\",\");if(h.length>1){var v=h[0],m=h[1];b=u+\"\/\"+v+\".\"+d+\".\"+m}}}n()}catch(t){}},function(t,n){e&&e(t,n)},r)}},z(B.uDF),setTimeout(w,I,B.uDF)}catch(t){c(B.mLd)}}catch(t){}})();\n<\/script>",
+    "sale_disclaimer": "<em>Promo codes are not eligible on sale items<\/em>",
     "sections": {
       "main-password-header": {
         "type": "main-password-header",
@@ -165,7 +156,7 @@
     "content_for_index": [],
     "blocks": {
       "10830403595879607806": {
-        "type": "shopify://apps/reviews-io/blocks/reviewsio-core/92a082e5-b297-4e88-b428-ac96cbc505f9",
+        "type": "shopify:\/\/apps\/reviews-io\/blocks\/reviewsio-core\/92a082e5-b297-4e88-b428-ac96cbc505f9",
         "disabled": false,
         "settings": {
           "url_key": "titan-fitness",
@@ -173,7 +164,7 @@
         }
       },
       "15316669992541710076": {
-        "type": "shopify://apps/reviews-io/blocks/reviewsio-rating-snippet/92a082e5-b297-4e88-b428-ac96cbc505f9",
+        "type": "shopify:\/\/apps\/reviews-io\/blocks\/reviewsio-rating-snippet\/92a082e5-b297-4e88-b428-ac96cbc505f9",
         "disabled": false,
         "settings": {
           "star": "#000000",
@@ -190,27 +181,27 @@
         }
       },
       "855628211100114053": {
-        "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/klaviyo-onsite-embed/2632fe16-c075-4321-a88b-50b567f42507",
+        "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/klaviyo-onsite-embed\/2632fe16-c075-4321-a88b-50b567f42507",
         "disabled": false,
         "settings": {}
       },
       "12858053115584124067": {
-        "type": "shopify://apps/forter-fraud-solution/blocks/forter-js-snippet/398b8aa7-efe2-4085-a9da-7cdbb5719ffc",
+        "type": "shopify:\/\/apps\/forter-fraud-solution\/blocks\/forter-js-snippet\/398b8aa7-efe2-4085-a9da-7cdbb5719ffc",
         "disabled": false,
         "settings": {}
       },
       "12592085946906583873": {
-        "type": "shopify://apps/wunderkind/blocks/tag/40b05e3b-2403-4814-8fab-e17e57e8b1aa",
+        "type": "shopify:\/\/apps\/wunderkind\/blocks\/tag\/40b05e3b-2403-4814-8fab-e17e57e8b1aa",
         "disabled": false,
         "settings": {}
       },
       "15685250022964305326": {
-        "type": "shopify://apps/elevar-conversion-tracking/blocks/dataLayerEmbed/bc30ab68-b15c-4311-811f-8ef485877ad6",
+        "type": "shopify:\/\/apps\/elevar-conversion-tracking\/blocks\/dataLayerEmbed\/bc30ab68-b15c-4311-811f-8ef485877ad6",
         "disabled": false,
         "settings": {}
       },
       "3576686563519644491": {
-        "type": "shopify://apps/vwo/blocks/vwo-smartcode/2ce905b2-3842-4d20-b6b0-8c51fc208426",
+        "type": "shopify:\/\/apps\/vwo\/blocks\/vwo-smartcode\/2ce905b2-3842-4d20-b6b0-8c51fc208426",
         "disabled": false,
         "settings": {
           "vwoAccountId": "609704",
@@ -220,12 +211,12 @@
         }
       },
       "16256948136948485038": {
-        "type": "shopify://apps/upcharge-surcharges/blocks/app-embed-block/3660e544-1847-4d53-9b3b-f0cb50c2d9f7",
+        "type": "shopify:\/\/apps\/upcharge-surcharges\/blocks\/app-embed-block\/3660e544-1847-4d53-9b3b-f0cb50c2d9f7",
         "disabled": false,
         "settings": {}
       },
       "12640087942390585949": {
-        "type": "shopify://apps/bulk-discount-creator/blocks/app-affileate-embeded-block/251e558c-5e23-4a58-a712-3ad83fbca46e",
+        "type": "shopify:\/\/apps\/bulk-discount-creator\/blocks\/app-affileate-embeded-block\/251e558c-5e23-4a58-a712-3ad83fbca46e",
         "disabled": false,
         "settings": {}
       }
@@ -422,7 +413,7 @@
       "sale_badge_color_scheme": "accent-2",
       "sold_out_badge_color_scheme": "inverse",
       "brand_headline": "",
-      "brand_description": "<p></p>",
+      "brand_description": "<p><\/p>",
       "brand_image_width": 100,
       "social_twitter_link": "",
       "social_facebook_link": "",

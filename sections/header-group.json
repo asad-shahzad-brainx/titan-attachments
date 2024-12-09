@@ -1,12 +1,3 @@
-/*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
 {
   "name": "t:sections.header.name",
   "type": "header",
@@ -40,12 +31,22 @@
             "link": "shopify:\/\/pages\/financing",
             "prop": "Splitpay or financing with 0% APR* available"
           }
+        },
+        "announcement_gEJjDk": {
+          "type": "announcement",
+          "settings": {
+            "text": "Save With Section 179",
+            "icon": "shopify:\/\/shop_images\/Buy_Now_Pay_Later_58.png",
+            "link": "shopify:\/\/blogs\/news\/section-179-deduction",
+            "prop": "Section 179 can be a powerful tool to lower your tax liability and improve cash flow."
+          }
         }
       },
       "block_order": [
         "sections--21340513403157__19002a55-891a-4bf2-abaa-d29b0a3a85e6-announcement-1",
         "a9c97c88-dff8-486b-8dcb-4afa39f57402",
-        "39551122-3014-4ba9-8ca1-94da94468bd6"
+        "39551122-3014-4ba9-8ca1-94da94468bd6",
+        "announcement_gEJjDk"
       ],
       "settings": {
         "color_scheme": "",
