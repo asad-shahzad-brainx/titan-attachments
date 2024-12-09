@@ -108,6 +108,7 @@
                       </strong>
                     </div>
                   </legend>
+                </div>
                   {% for depth in unique_depths %}
                     {% assign depthValue = depth | remove: '"' %}
                     <button
@@ -120,7 +121,6 @@
                       {{ depth }}
                     </button>
                   {% endfor %}
-                </div>
               </product-dimensions>
             {% endif %}
           {% endif %}
@@ -169,8 +169,7 @@
                 }{% unless forloop.last %},{% endunless %}
             {% endfor %}
           ]
-        </script>
-        
+        </script>   
       </variant-radios>
     </div>
   {%- else -%}
@@ -250,7 +249,6 @@
     </variant-selects>
   {%- endif -%}
 {%- endunless -%}
-
 
 <noscript class="product-form__noscript-wrapper-{{ section.id }}">
   <div class="product-form__input{% if product.has_only_default_variant %} hidden{% endif %}">

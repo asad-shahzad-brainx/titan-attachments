@@ -1,131 +1,125 @@
-/*
- * ------------------------------------------------------------
- * IMPORTANT: The contents of this file are auto-generated.
- *
- * This file may be updated by the Shopify admin theme editor
- * or related systems. Please exercise caution as any changes
- * made to this file may be overwritten.
- * ------------------------------------------------------------
- */
 {
   "sections": {
     "0a0237a9-d9d8-4cd3-95e4-15fecea3d253": {
       "type": "hero-banner",
+      "custom_css": [
+        "@media only screen and (min-width: 1024px) {.c-btn.c-btn--medium {padding: 19px 10px; font-size: 19px; max-width: 210px; }}"
+      ],
       "settings": {
-        "img": "shopify://shop_images/TA_BF_Starts_Now_-_Desktop.webp",
-        "img_mobile": "shopify://shop_images/TA_BF_starts_now_-_mobile.webp",
-        "image_overlay_opacity": 0,
+        "img": "shopify:\/\/shop_images\/24-TA-0111_EOY_Blowout_Web_-_Desktop_2880x1440_63b46427-8111-4254-acbe-bbdc595d7c4f.webp",
+        "img_mobile": "shopify:\/\/shop_images\/24-TA-0111_EOY_Blowout_Web_-_Mobile.webp",
+        "image_overlay_opacity": 30,
         "color_scheme": "",
-        "subheading": "",
-        "heading": "",
+        "subheading": "Up To 50% Off",
+        "heading": "END OF YEAR BLOWOUT",
         "heading_tag": "1",
         "use_aria_headings": true,
-        "desc": "",
+        "desc": "Upgrade your equipment without breaking the bank",
         "allignment_desktop": "u-middleCenterDesktop",
         "allignment_mobile": "u-middleCenter",
         "text_color": "#ffffff",
         "btn_label": "Shop Deals",
-        "btn_link": "shopify://collections/black-friday-deals",
-        "button_color_scheme": "none"
+        "btn_link": "shopify:\/\/collections\/weekly-deals",
+        "button_color_scheme": "c-btnPrimary"
       }
     },
     "6b312e62-79e2-4542-9232-b733004eeaf3": {
       "type": "collections-carousel",
       "blocks": {
+        "featured_collection_GNNhiP": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "snow-equipment",
+            "collection_img": "shopify:\/\/shop_images\/Shop_Snow_Equipment.webp",
+            "collection_heading": "Snow Equipment",
+            "heading_tag": "h3",
+            "heading_style": "h2",
+            "collection_cta": "Shop Now"
+          }
+        },
         "template--21321490891029__6b312e62-79e2-4542-9232-b733004eeaf3-featured_collection-1": {
           "type": "featured_collection",
           "settings": {
             "collection": "skid-steer-grapples",
-            "collection_img": "shopify://shop_images/Grapples_Collection.webp",
+            "collection_img": "shopify:\/\/shop_images\/Grapples_Collection.webp",
             "collection_heading": "Skid Steer Grapples",
             "heading_tag": "h2",
             "heading_style": "h2",
-            "collection_cta": "UP TO 20% OFF"
+            "collection_cta": "Shop Now"
           }
         },
         "featured_collection_gaA3yx": {
           "type": "featured_collection",
           "settings": {
             "collection": "skid-steer-buckets",
-            "collection_img": "shopify://shop_images/Skid_Steer_Buckets_Cat.webp",
+            "collection_img": "shopify:\/\/shop_images\/Skid_Steer_Buckets_Cat.webp",
             "collection_heading": "",
             "heading_tag": "h2",
             "heading_style": "h2",
-            "collection_cta": "UP TO 20% OFF"
+            "collection_cta": "Shop Now"
           }
         },
         "template--21321490891029__6b312e62-79e2-4542-9232-b733004eeaf3-featured_collection-2": {
           "type": "featured_collection",
           "settings": {
             "collection": "3-point-hitch-attachments",
-            "collection_img": "shopify://shop_images/3-point-tractor-attachments.webp",
+            "collection_img": "shopify:\/\/shop_images\/3-point-tractor-attachments.webp",
             "collection_heading": "3-Point Tractor attachments",
             "heading_tag": "h2",
             "heading_style": "h2",
-            "collection_cta": "UP TO 30% OFF"
-          }
-        },
-        "featured_collection_GNNhiP": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "snow-equipment",
-            "collection_img": "shopify://shop_images/Shop_Snow_Equipment.webp",
-            "collection_heading": "Snow Equipment",
-            "heading_tag": "h3",
-            "heading_style": "h2",
-            "collection_cta": "UP TO 50% OFF"
+            "collection_cta": "Shop Now"
           }
         },
         "featured_collection_i4bbx4": {
           "type": "featured_collection",
           "settings": {
             "collection": "workshop-forestry-equipment",
-            "collection_img": "shopify://shop_images/Forestry_Collection.webp",
+            "collection_img": "shopify:\/\/shop_images\/Forestry_Collection.webp",
             "collection_heading": "",
             "heading_tag": "h2",
             "heading_style": "h2",
-            "collection_cta": "UP TO 50% OFF"
+            "collection_cta": "Shop Now"
           }
         },
         "template--21321490891029__6b312e62-79e2-4542-9232-b733004eeaf3-featured_collection-3": {
           "type": "featured_collection",
           "settings": {
             "collection": "jd-hook-pin-attachments",
-            "collection_img": "shopify://shop_images/JD_Hook_Pin_Collection.webp",
+            "collection_img": "shopify:\/\/shop_images\/JD_Hook_Pin_Collection.webp",
             "collection_heading": "JD Hook & Pin",
             "heading_tag": "h2",
             "heading_style": "h2",
-            "collection_cta": "UP TO 30% OFF"
+            "collection_cta": "Shop Now"
           }
         },
         "template--21321490891029__6b312e62-79e2-4542-9232-b733004eeaf3-featured_collection-4": {
           "type": "featured_collection",
           "settings": {
             "collection": "skid-steers-pallet-frame-forks",
-            "collection_img": "shopify://shop_images/Skid_Steer_Pallet_Forks_Cat.webp",
+            "collection_img": "shopify:\/\/shop_images\/Skid_Steer_Pallet_Forks_Cat.webp",
             "collection_heading": "Skid Steer Pallet Forks",
             "heading_tag": "h2",
             "heading_style": "h2",
-            "collection_cta": "UP TO 30% OFF"
+            "collection_cta": "Shop Now"
           }
         },
         "template--21321490891029__6b312e62-79e2-4542-9232-b733004eeaf3-featured_collection-5": {
           "type": "featured_collection",
           "settings": {
             "collection": "forklift-attachments",
-            "collection_img": "shopify://shop_images/Fork_Mounted_Collection.webp",
+            "collection_img": "shopify:\/\/shop_images\/Fork_Mounted_Collection.webp",
             "collection_heading": "Fork Mounted",
             "heading_tag": "h2",
             "heading_style": "h2",
-            "collection_cta": "UP TO 25% OFF"
+            "collection_cta": "Shop Now"
           }
         }
       },
       "block_order": [
+        "featured_collection_GNNhiP",
         "template--21321490891029__6b312e62-79e2-4542-9232-b733004eeaf3-featured_collection-1",
         "featured_collection_gaA3yx",
         "template--21321490891029__6b312e62-79e2-4542-9232-b733004eeaf3-featured_collection-2",
-        "featured_collection_GNNhiP",
         "featured_collection_i4bbx4",
         "template--21321490891029__6b312e62-79e2-4542-9232-b733004eeaf3-featured_collection-3",
         "template--21321490891029__6b312e62-79e2-4542-9232-b733004eeaf3-featured_collection-4",
@@ -174,11 +168,10 @@
         "content_jfJwph",
         "content_fLcTHA"
       ],
-      "disabled": true,
       "settings": {
         "video_url": "",
         "show_time": false,
-        "img": "shopify://shop_images/tractor-overhead-logs.webp",
+        "img": "shopify:\/\/shop_images\/tractor-overhead-logs.webp",
         "video_overlay_opacity": 30,
         "color_scheme": "",
         "subheading": "",
@@ -204,26 +197,6 @@
         "padding_bottom": 48,
         "padding_top_mobile": 40,
         "padding_bottom_mobile": 40
-      }
-    },
-    "hero_banner_KnpmaX": {
-      "type": "hero-banner",
-      "settings": {
-        "img": "shopify://shop_images/TA_BFDoorbuster_Deal_smallfeature_-_HDRAKES.webp",
-        "img_mobile": "shopify://shop_images/TA_BFDoorbuster_Deal_-_HDRAKES-mobile_1.webp",
-        "image_overlay_opacity": 0,
-        "color_scheme": "",
-        "subheading": "",
-        "heading": "",
-        "heading_tag": "2",
-        "use_aria_headings": false,
-        "desc": "",
-        "allignment_desktop": "u-middleLeftDesktop",
-        "allignment_mobile": "u-middleCenter",
-        "text_color": "",
-        "btn_label": "Shop Deal",
-        "btn_link": "https://palletforks.com/products/extreme-root-grapple-rake-attachments",
-        "button_color_scheme": "none"
       }
     },
     "ss_recommendation_pLKpr4": {
@@ -280,7 +253,7 @@
       ],
       "disabled": true,
       "settings": {
-        "video_url": "https://player.vimeo.com/video/847345274?h=57f0cc05a5",
+        "video_url": "https:\/\/player.vimeo.com\/video\/847345274?h=57f0cc05a5",
         "aspect_width": 16,
         "aspect_height": 8.5,
         "show_time": false,
@@ -292,7 +265,7 @@
         "heading_style": "h1",
         "description": "Now is the time to tap into it, grab hold of it, and have conviction that nothing will stop you from reaching the goals you have set for yourself.",
         "main_cta_label": "",
-        "main_cta_link": "shopify://collections/weekly-deals",
+        "main_cta_link": "shopify:\/\/collections\/weekly-deals",
         "main_button_color_scheme": "c-btnPrimary"
       }
     },
@@ -312,7 +285,7 @@
         "allignment_mobile": "u-middleCenter",
         "text_color": "#ffffff",
         "cta_label": "Shop Now",
-        "cta_link": "shopify://collections/grade-a-teak-outdoor-furniture",
+        "cta_link": "shopify:\/\/collections\/grade-a-teak-outdoor-furniture",
         "button_color_scheme": "c-btnPrimary"
       }
     },
@@ -323,7 +296,7 @@
           "type": "testimonial",
           "settings": {
             "brand_name": "Total Fitness USA",
-            "testimonial": "<p>We wanted the best-in-class brand that could withstand the impact of intense training and tolerate the extreme environment of our races — the high quality and toughness of Titan is just what we needed.</p>",
+            "testimonial": "<p>We wanted the best-in-class brand that could withstand the impact of intense training and tolerate the extreme environment of our races — the high quality and toughness of Titan is just what we needed.<\/p>",
             "author_name": "- Joe De Sena, Founder & CEO, Spartan"
           }
         },
@@ -331,7 +304,7 @@
           "type": "testimonial",
           "settings": {
             "brand_name": "Total Fitness USA",
-            "testimonial": "<p>We chose Titan because their equipment is really top-of-the-line, functionally great, and it had the look and professional feel that we want to convey at RFK Racing.</p>",
+            "testimonial": "<p>We chose Titan because their equipment is really top-of-the-line, functionally great, and it had the look and professional feel that we want to convey at RFK Racing.<\/p>",
             "author_name": "- Brad Keslowski, RFK Racing"
           }
         },
@@ -339,15 +312,15 @@
           "type": "testimonial",
           "settings": {
             "brand_name": "Total Fitness USA",
-            "testimonial": "<p>Thanks to Titan and their impressive equipment, we are able to grant some of the most transformational wishes: those that strengthen the body, while also strengthening the soul.</p>",
-            "author_name": "– Kim Elenez, President/CEO of Make-A-Wish North Texas"
+            "testimonial": "<p>Thanks to Titan and their impressive equipment, we are able to grant some of the most transformational wishes: those that strengthen the body, while also strengthening the soul.<\/p>",
+            "author_name": "– Kim Elenez, President\/CEO of Make-A-Wish North Texas"
           }
         },
         "df4d644d-2e55-43cb-a26a-532450caa322": {
           "type": "testimonial",
           "settings": {
             "brand_name": "Total Fitness USA",
-            "testimonial": "<p>Fitness is top priority for us. Even though firefighters are notorious for being hard on equipment, Titan products can stand up to the intensity of our training.</p>",
+            "testimonial": "<p>Fitness is top priority for us. Even though firefighters are notorious for being hard on equipment, Titan products can stand up to the intensity of our training.<\/p>",
             "author_name": "- Kevin Timmons, Bluff City Combat"
           }
         },
@@ -355,7 +328,7 @@
           "type": "testimonial",
           "settings": {
             "brand_name": "Total Fitness USA",
-            "testimonial": "<p>We’re able to get top notch equipment into more hands and no longer fear that quality equipment will out price many of our customers. If we want it, Titan has it.</p>",
+            "testimonial": "<p>We’re able to get top notch equipment into more hands and no longer fear that quality equipment will out price many of our customers. If we want it, Titan has it.<\/p>",
             "author_name": "- Andrew Lewis, Owner Total Fitness USA"
           }
         },
@@ -363,7 +336,7 @@
           "type": "testimonial",
           "settings": {
             "brand_name": "Total Fitness USA",
-            "testimonial": "<p>Titan made it possible to outfit our team gym with quality equipment, that will elevate our game, making it a space we’re proud to call ours.</p>",
+            "testimonial": "<p>Titan made it possible to outfit our team gym with quality equipment, that will elevate our game, making it a space we’re proud to call ours.<\/p>",
             "author_name": "- Brendon Cleave, Arrow McLaren Indycar Team"
           }
         }
@@ -382,7 +355,7 @@
         "heading": "What people are saying",
         "heading_tag": "h3",
         "reviews_count": "Over 9,686 5-Star Reviews",
-        "reviews_link": "shopify://pages/reviews",
+        "reviews_link": "shopify:\/\/pages\/reviews",
         "color_scheme": "background-2",
         "padding_top": 48,
         "padding_bottom": 48,
@@ -394,7 +367,7 @@
       "type": "instagram-carousel",
       "blocks": {
         "d55e8779-cffe-43eb-bc65-20439d39af0a": {
-          "type": "shopify://apps/reviews-io/blocks/reviewsio-ugc/92a082e5-b297-4e88-b428-ac96cbc505f9",
+          "type": "shopify:\/\/apps\/reviews-io\/blocks\/reviewsio-ugc\/92a082e5-b297-4e88-b428-ac96cbc505f9",
           "settings": {
             "widget_id": "Sx4BChsvJ6Ai5kOq",
             "is_product_specific": false,
@@ -410,12 +383,33 @@
       "settings": {
         "heading": "#UnleashYourTitan",
         "heading_tag": "h2",
-        "description": "<p>Mention us @betitanfit for a chance to be featured</p>",
+        "description": "<p>Mention us @betitanfit for a chance to be featured<\/p>",
         "color_scheme": "background-1",
         "padding_top": 48,
         "padding_bottom": 8,
         "padding_top_mobile": 40,
         "padding_bottom_mobile": 28
+      }
+    },
+    "img_banner_nRcnhr": {
+      "type": "img-banner",
+      "settings": {
+        "img": "shopify:\/\/shop_images\/191701_04_Homepage_Full.webp",
+        "img_mobile": "shopify:\/\/shop_images\/191701_04_Homepage_Mobile.webp",
+        "img_width": "medium",
+        "img_position": "right",
+        "image_overlay_opacity": 0,
+        "color_scheme": "",
+        "subheading": "",
+        "heading": "Standard Series PTO Stump Grinder",
+        "heading_tag": "h2",
+        "description": "Remove tree stumps quickly and efficiently with the Standard Series Stump Grinder. This implement attaches to Cat 1 tractors with a with a 3 Point hitch with two mounting positions to customize the height to your tractor size and comes with a PTO shaft with a slip clutch for added safety. Plus, the included hinge pin loosens the grinding wheel to take stress off your tractor.",
+        "allignment_desktop": "u-middleLeftDesktop",
+        "allignment_mobile": "u-middleCenter",
+        "text_color": "#f2f2f2",
+        "cta_label": "Shop Now",
+        "cta_link": "https:\/\/palletforks.com\/products\/standard-series-pto-stump-grinder",
+        "button_color_scheme": "c-btnPrimary"
       }
     },
     "collections_carousel_p7xUdd": {
@@ -425,7 +419,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "tractors-quick-tach-pallet-forks-accessories",
-            "collection_img": "shopify://shop_images/Quick_Tach_Pallet_Forks_Collection.webp",
+            "collection_img": "shopify:\/\/shop_images\/Quick_Tach_Pallet_Forks_Collection.webp",
             "collection_heading": "Quick Tach Pallet Forks",
             "heading_tag": "h3",
             "heading_style": "h2",
@@ -436,7 +430,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "jd-pallet-forks",
-            "collection_img": "shopify://shop_images/Fits_JD_Pallet_Forks_Collection.webp",
+            "collection_img": "shopify:\/\/shop_images\/Fits_JD_Pallet_Forks_Collection.webp",
             "collection_heading": "Fits John Deere Pallet Forks",
             "heading_tag": "h3",
             "heading_style": "h2",
@@ -447,7 +441,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "tractors-quick-tach-grapples",
-            "collection_img": "shopify://shop_images/Quick_Tach_Grapples_Collection.webp",
+            "collection_img": "shopify:\/\/shop_images\/Quick_Tach_Grapples_Collection.webp",
             "collection_heading": "Quick Tach Grapples",
             "heading_tag": "h3",
             "heading_style": "h2",
@@ -458,7 +452,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "jd-grapples",
-            "collection_img": "shopify://shop_images/Fits_JD_Grapples_Collection.webp",
+            "collection_img": "shopify:\/\/shop_images\/Fits_JD_Grapples_Collection.webp",
             "collection_heading": "Fits John Deere Grapples",
             "heading_tag": "h3",
             "heading_style": "h2",
@@ -469,7 +463,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "workshop-forestry-equipment",
-            "collection_img": "shopify://shop_images/Forestry_Collection.webp",
+            "collection_img": "shopify:\/\/shop_images\/Forestry_Collection.webp",
             "collection_heading": "Forestry Equipment",
             "heading_tag": "h3",
             "heading_style": "h2",
@@ -480,7 +474,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "skid-steers-other",
-            "collection_img": "shopify://shop_images/Other_Collection.webp",
+            "collection_img": "shopify:\/\/shop_images\/Other_Collection.webp",
             "collection_heading": "Other",
             "heading_tag": "h3",
             "heading_style": "h2",
@@ -510,21 +504,21 @@
       "type": "img-banner",
       "custom_css": [],
       "settings": {
-        "img": "shopify://shop_images/will_it_fit_my_tactor_desktop.webp",
-        "img_mobile": "shopify://shop_images/will_it_fit_my_tactor_mobile.webp",
-        "img_width": "large",
-        "img_position": "right",
+        "img": "shopify:\/\/shop_images\/will_it_fit_my_tactor_desktop.webp",
+        "img_mobile": "shopify:\/\/shop_images\/will_it_fit_my_tactor_mobile.webp",
+        "img_width": "medium",
+        "img_position": "left",
         "image_overlay_opacity": 30,
         "color_scheme": "background-1",
         "subheading": "",
         "heading": "WILL IT FIT MY MACHINE?",
         "heading_tag": "h2",
-        "description": "Confirm your machine's connection type and what understand which attachments are compatible.<br><br>Our dedicated attachment professionals are also available to answer your questions at <a style=\"color: #fff; text-decoration: underline;\" href=\"tel:800-605-7595\">800-605-7595</a>.",
+        "description": "Confirm your machine's connection type and what understand which attachments are compatible.<br><br>Our dedicated attachment professionals are also available to answer your questions at <a style=\"color: #fff; text-decoration: underline;\" href=\"tel:800-605-7595\">800-605-7595<\/a>.",
         "allignment_desktop": "u-middleCenterDesktop",
         "allignment_mobile": "u-middleCenter",
         "text_color": "#ffffff",
         "cta_label": "LEARN MORE",
-        "cta_link": "shopify://pages/what-will-fit-my-tractor",
+        "cta_link": "shopify:\/\/pages\/what-will-fit-my-tractor",
         "button_color_scheme": "c-btnPrimary"
       }
     }
@@ -534,12 +528,12 @@
     "6b312e62-79e2-4542-9232-b733004eeaf3",
     "video_banner_iy4LMg",
     "3497e2fa-0017-4b3a-9a4d-ad357f45c775",
-    "hero_banner_KnpmaX",
     "ss_recommendation_pLKpr4",
     "8edc8010-7545-4678-9f2a-1f3d506b1b6d",
     "dd33fb8f-f355-409c-91d6-2e380aab6af7",
     "b82a7d2b-52fd-4834-a79c-c32cf35da162",
     "ad6a2043-4ed4-4283-b81a-85ed64a41a72",
+    "img_banner_nRcnhr",
     "collections_carousel_p7xUdd",
     "img_banner_QaD6wz"
   ]

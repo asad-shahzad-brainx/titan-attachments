@@ -1,19 +1,10 @@
-/*
- * ------------------------------------------------------------
- * IMPORTANT: The contents of this file are auto-generated.
- *
- * This file may be updated by the Shopify admin theme editor
- * or related systems. Please exercise caution as any changes
- * made to this file may be overwritten.
- * ------------------------------------------------------------
- */
 {
   "sections": {
     "main": {
       "type": "main-bundle",
       "blocks": {
-        "743bfd21-8da7-497b-aa65-5a89c3d8b871": {
-          "type": "shopify://apps/category-breadcrumbs/blocks/category-breadcrumbs/dba51573-4328-452d-90db-1ad2dc5be363",
+        "category_breadcrumbs_category_breadcrumbs_qFFxa3": {
+          "type": "shopify:\/\/apps\/category-breadcrumbs\/blocks\/category-breadcrumbs\/dba51573-4328-452d-90db-1ad2dc5be363",
           "settings": {
             "override_linktext_colour": false,
             "linktext_colour": "#0000ee",
@@ -27,14 +18,14 @@
             "separator_char_code": "#47;",
             "hide_old_breadcrumb": false,
             "show_catroot": true,
-            "link_catroot": "/",
+            "link_catroot": "\/",
             "text_catroot": "Home",
             "show_tags": true,
-            "show_finalbread_as_textonly": true,
+            "show_finalbread_as_textonly": false,
             "insert_jsonld": true,
             "insert_shortlinkfix": false,
             "prod_multicat_sel": "leastprod",
-            "link_catall": "/collections/all",
+            "link_catall": "\/collections\/all",
             "text_catall": "All Products",
             "show_product_title": true,
             "truncate_limit": 0,
@@ -52,20 +43,24 @@
         },
         "title": {
           "type": "title",
-          "settings": {}
+          "settings": {
+            "heading_style": "h2"
+          }
         },
         "price": {
           "type": "price",
           "settings": {}
         },
-        "collection_list_pct6Di": {
+        "collection_list_ygYLhA": {
           "type": "collection_list",
           "settings": {
-            "sale_disclaimer": "<em>Promo codes are not eligible on this item</em>",
-            "excluded_collection_list": ["discount-excluded"],
+            "sale_disclaimer": "<em>Promo codes are not eligible on this item<\/em>",
+            "excluded_collection_list": [
+              "recommendation-excluded"
+            ],
             "exclusion_message_all_sale": true,
-            "exclusion_cents_check": false,
-            "exclusion_cents": 97,
+            "exclusion_cents_check": true,
+            "exclusion_cents": 96,
             "exclusion_message_backordered": true
           }
         },
@@ -102,6 +97,10 @@
           "disabled": true,
           "settings": {}
         },
+        "custom_measurements_VUVQBH": {
+          "type": "custom_measurements",
+          "settings": {}
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -109,51 +108,41 @@
             "show_gift_card_recipient": true
           }
         },
-        "value_props_NVHeDi": {
-          "type": "value-props",
-          "settings": {
-            "icon": "buy-now-pay-later",
-            "svg_code": "",
-            "heading": "Buy Now, Pay Later",
-            "text": "<p>Flexible payment options available with <a href=\"https://titan.fitness/pages/financing\" target=\"_blank\" title=\"Bread Pay™ Financing\">Bread Pay™</a></p>"
-          }
-        },
-        "value_props_pnm8nA": {
+        "value_props_xcBYfT": {
           "type": "value-props",
           "settings": {
             "icon": "shipping",
             "svg_code": "",
-            "heading": "Free Shipping on All Items",
-            "text": "<p>Most orders placed by 1pm CT ship same day</p>"
+            "heading": "Fast & Free Shipping on Every Order",
+            "text": "<p>Handling fee applies to oversize items<\/p>"
           }
         },
-        "value_props_tfrk8A": {
+        "value_props_NjiPdJ": {
           "type": "value-props",
           "settings": {
             "icon": "warranty",
             "svg_code": "",
             "heading": "1-Year warranty included",
-            "text": "<p>Extended coverage available with <a href=\"/pages/warranty\" target=\"_blank\" title=\"Warranty\">Mulberry</a></p>"
+            "text": "<p>Extended coverage available with <a href=\"\/pages\/warranty\" target=\"_blank\" title=\"Warranty\">Mulberry<\/a><\/p>"
           }
         },
-        "value_props_xaGcBX": {
+        "value_props_EYMnQt": {
           "type": "value-props",
-          "disabled": true,
           "settings": {
-            "icon": "shipping",
-            "svg_code": "<svg class=\"o-icon\" width=\"15\" height=\"18\" viewbox=\"0 0 15 18\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-labelledby=\"title\">\n  <path d=\"M15 9L-8.15666e-07 17.6603L-5.85621e-08 0.339745L15 9Z\" fill=\"black\"></path>\n</svg>",
-            "heading": "Did we tell you about the shipping?",
-            "text": "<p>It's <strong>FREE!!!</strong></p>"
+            "icon": "buy-now-pay-later",
+            "svg_code": "",
+            "heading": "Buy Now, Pay Later",
+            "text": "<p>Flexible payment options available with <a href=\"https:\/\/palletforks.com\/pages\/financing\" target=\"_blank\" title=\"Bread Pay™ Financing\">Bread Pay™<\/a><\/p>"
           }
         }
       },
       "block_order": [
-        "743bfd21-8da7-497b-aa65-5a89c3d8b871",
+        "category_breadcrumbs_category_breadcrumbs_qFFxa3",
         "sale_badge_bGE8WR",
         "7454a2ec-7038-4a7a-8e15-282ba300659c",
         "title",
         "price",
-        "collection_list_pct6Di",
+        "collection_list_ygYLhA",
         "breadpay_integration_ckYnfy",
         "6a78773d-e726-45e0-bc51-d8e2c68af77b",
         "variant_picker",
@@ -161,11 +150,11 @@
         "b6582bc5-40e2-4f7b-b897-0888c785e5c2",
         "3dac5b59-5be7-4bd8-9ff9-45cfde2c3853",
         "85301896-73db-4f59-95e8-8ede8f68f900",
+        "custom_measurements_VUVQBH",
         "buy_buttons",
-        "value_props_NVHeDi",
-        "value_props_pnm8nA",
-        "value_props_tfrk8A",
-        "value_props_xaGcBX"
+        "value_props_xcBYfT",
+        "value_props_NjiPdJ",
+        "value_props_EYMnQt"
       ],
       "settings": {
         "enable_sticky_info": true,
@@ -179,10 +168,7 @@
         "hide_variants": false,
         "enable_video_looping": false,
         "padding_top": 0,
-        "padding_bottom": 0,
-        "icon": "shipping",
-        "heading": "",
-        "text": ""
+        "padding_bottom": 0
       }
     },
     "1bcf5bb7-d81c-4d4f-a02f-55e4e3e80a7b": {
@@ -191,6 +177,7 @@
         "expand_accordion": "yes",
         "heading": "Product Overview",
         "heading_tag": "h3",
+        "heading_style": "h2",
         "slider_heading_tag": "h3",
         "color_scheme": "background-2",
         "padding_top": 16,
@@ -205,6 +192,7 @@
         "expand_accordion": "yes",
         "heading": "Specifications",
         "heading_tag": "h3",
+        "heading_style": "h2",
         "img_width": "large",
         "color_scheme": "background-2",
         "padding_top": 16,
@@ -219,6 +207,7 @@
         "expand_accordion": "yes",
         "heading": "Details",
         "heading_tag": "h3",
+        "heading_style": "h2",
         "color_scheme": "",
         "button_text": "View Product Manual",
         "padding_top": 16,
@@ -233,6 +222,7 @@
         "expand_accordion": "no",
         "heading": "Additional Info",
         "heading_tag": "h3",
+        "heading_style": "h2",
         "color_scheme": "",
         "button_text": "",
         "padding_top": 16,
@@ -260,29 +250,49 @@
         "padding_bottom": 28
       }
     },
+    "ss_recommendation_wgBMD9": {
+      "type": "ss-recommendation",
+      "settings": {
+        "ss_profile_id": "similar",
+        "ss_wrapper_class": "o-pageWidth",
+        "ss_collection_list": [],
+        "ss_import_card_styles": true,
+        "ss_batched": true
+      }
+    },
+    "ss_recommendation_XVctFj": {
+      "type": "ss-recommendation",
+      "settings": {
+        "ss_profile_id": "cross-sell",
+        "ss_wrapper_class": "o-pageWidth",
+        "ss_collection_list": [],
+        "ss_import_card_styles": true,
+        "ss_batched": true
+      }
+    },
+    "ss_recommendation_yAFwry": {
+      "type": "ss-recommendation",
+      "settings": {
+        "ss_profile_id": "recently-viewed",
+        "ss_wrapper_class": "o-pageWidth",
+        "ss_collection_list": [],
+        "ss_import_card_styles": true,
+        "ss_batched": true
+      }
+    },
     "f9a22cc0-1cb6-40bf-87c4-19d280b02a58": {
       "type": "products-carousel",
       "disabled": true,
       "settings": {
         "heading": "Similar Items",
         "heading_tag": "h3",
-        "collection": "power-racks",
+        "collection": "rotary-cutters",
         "limit": 6,
         "color_scheme": "background-2",
         "padding_top": 48,
         "padding_bottom": 48,
         "padding_top_mobile": 40,
         "padding_bottom_mobile": 40
-      }
-    },
-    "ss_recommendation_gQwRmx": {
-      "type": "ss-recommendation",
-      "settings": {
-        "ss_profile_id": "similar",
-        "ss_wrapper_class": "",
-        "ss_collection_list": [],
-        "ss_import_card_styles": true,
-        "ss_batched": true
       }
     },
     "c501c089-47fd-439b-93b0-35d8c4d8ea58": {
@@ -291,7 +301,7 @@
       "settings": {
         "heading": "Often Bought Together",
         "heading_tag": "h3",
-        "collection": "weight-plates",
+        "collection": "tractors-quick-tach",
         "limit": 6,
         "color_scheme": "background-2",
         "padding_top": 48,
@@ -300,22 +310,13 @@
         "padding_bottom_mobile": 40
       }
     },
-    "ss_recommendation_6WdYpb": {
-      "type": "ss-recommendation",
-      "settings": {
-        "ss_profile_id": "cross-sell",
-        "ss_wrapper_class": "",
-        "ss_collection_list": [],
-        "ss_import_card_styles": true,
-        "ss_batched": true
-      }
-    },
     "collapsible_reviews_sec_zNWAkJ": {
       "type": "collapsible-reviews-sec",
       "settings": {
         "expand_accordion": "yes",
         "heading": "Reviews & Questions",
         "heading_tag": "h2",
+        "heading_style": "h2",
         "color_scheme": "",
         "padding_top": 16,
         "padding_bottom": 16,
@@ -325,7 +326,6 @@
     },
     "e18f5a97-471b-4a88-9671-a0daed5b24f7": {
       "type": "products-carousel",
-      "disabled": true,
       "settings": {
         "heading": "Recently Viewed",
         "heading_tag": "h2",
@@ -337,16 +337,6 @@
         "padding_top_mobile": 40,
         "padding_bottom_mobile": 40
       }
-    },
-    "ss_recommendation_TYW9ah": {
-      "type": "ss-recommendation",
-      "settings": {
-        "ss_profile_id": "recently-viewed",
-        "ss_wrapper_class": "",
-        "ss_collection_list": [],
-        "ss_import_card_styles": true,
-        "ss_batched": true
-      }
     }
   },
   "order": [
@@ -356,12 +346,12 @@
     "39443c15-4157-4516-989c-48f9b94badee",
     "d278c372-f384-465d-ae73-9a08862cf45a",
     "related-products",
+    "ss_recommendation_wgBMD9",
+    "ss_recommendation_XVctFj",
+    "ss_recommendation_yAFwry",
     "f9a22cc0-1cb6-40bf-87c4-19d280b02a58",
-    "ss_recommendation_gQwRmx",
     "c501c089-47fd-439b-93b0-35d8c4d8ea58",
-    "ss_recommendation_6WdYpb",
     "collapsible_reviews_sec_zNWAkJ",
-    "e18f5a97-471b-4a88-9671-a0daed5b24f7",
-    "ss_recommendation_TYW9ah"
+    "e18f5a97-471b-4a88-9671-a0daed5b24f7"
   ]
 }
